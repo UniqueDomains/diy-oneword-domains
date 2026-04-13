@@ -3,7 +3,7 @@
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C284%20rows-8250df">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C285%20rows-8250df">
   <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C284%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
@@ -14,7 +14,7 @@ Daily-updated dataset of available and resale .diy one-word domains from Unique 
 > **Note:** this repository currently mirrors the full live catalog for this exact search.
 > Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 9,284 rows · **Live catalog:** 9,284 domains
+**Public extract:** 9,285 rows · **Live catalog:** 9,284 domains
 
 **Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/diy`  
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .DIY one-word domain c
 
 ### Files
 
-- `diy.csv` — public CSV extract (9,284 rows)
-- `diy.json` — public JSON extract (9,284 rows)
+- `diy.csv` — public CSV extract (9,285 rows)
+- `diy.json` — public JSON extract (9,285 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -70,19 +70,19 @@ print(df.head())
 | intelligent.diy | available | $51.98    | —             | 86             | 33     | 11     | namecheap       |
 | awesome.diy     | resell    | —         | —             | 98             | 44     | 7      | Porkbun LLC     |
 | nationwide.diy  | premium   | $455      | $650          | 76             | 66     | 10     | namecheap       |
-| lovely.diy      | available | $51.98    | —             | 72             | 32     | 6      | namecheap       |
+| concrete.diy    | available | $51.98    | —             | 102            | 32     | 8      | namecheap       |
 | marketplace.diy | resell    | —         | —             | 80             | 44     | 11     | Porkbun LLC     |
 | power.diy       | premium   | $1,300    | $2,600        | 98             | 62     | 5      | namecheap       |
-| concrete.diy    | available | $51.98    | —             | 102            | 31     | 8      | namecheap       |
+| lovely.diy      | available | $51.98    | —             | 72             | 32     | 6      | namecheap       |
 | investor.diy    | resell    | —         | —             | 78             | 40     | 8      | Spaceship, Inc. |
 | seventeen.diy   | premium   | $455      | $650          | 84             | 62     | 9      | namecheap       |
 | absolute.diy    | available | $51.98    | —             | 80             | 31     | 8      | namecheap       |
 | premium.diy     | resell    | —         | —             | 99             | 39     | 7      | Porkbun LLC     |
-| free.diy        | premium   | $1,820    | $2,600        | 88             | 59     | 4      | namecheap       |
+| ace.diy         | premium   | $455      | $650          | 88             | 57     | 3      | namecheap       |
 | second.diy      | available | $51.98    | —             | 120            | 28     | 6      | namecheap       |
 | research.diy    | resell    | —         | —             | 92             | 39     | 8      | Spaceship, Inc. |
-| ace.diy         | premium   | $455      | $650          | 88             | 57     | 3      | namecheap       |
-| reverse.diy     | available | $51.98    | —             | 114            | 28     | 7      | namecheap       |
+| free.diy        | premium   | $1,820    | $2,600        | 88             | 57     | 4      | namecheap       |
+| reverse.diy     | available | $51.98    | —             | 114            | 27     | 7      | namecheap       |
 | learning.diy    | resell    | —         | —             | 76             | 39     | 8      | Dynadot, LLC    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,284-row public sample | 9,284 live domains                               |
+| 9,285-row public sample | 9,284 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
