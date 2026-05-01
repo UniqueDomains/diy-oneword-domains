@@ -982,6 +982,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 55830ec5-4d11-448c-9880-616578ecccb8,reckoned.diy,available,39.99,,50,1,8,name.com,,
 55a321fd-2368-4fc6-8c63-a700883903da,favours.diy,available,39.99,,66,4,7,name.com,,
 55a8561e-355c-4601-8ebe-256517a40af6,hangonto.diy,available,39.99,,70,1,9,name.com,,
+55d7d626-5e5b-4eb7-8eb5-ca6ea79b96fa,together.diy,premium,,,76,45,8,,,
 56053480-8d21-4906-9492-447d5c1f454e,breastfeedings.diy,available,5.49,39.99,48,1,14,namesilo,,
 5608386e-2e3d-49fc-8cf3-860851214af2,commontime.diy,available,39.99,,68,4,11,name.com,,
 561a0772-77fa-4e2c-91a8-f2516d391664,shoppers.diy,premium,875,,64,10,8,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 57b0483c-fe28-4518-9d4b-9938de68ef03,VHS.diy,premium,245,350,71,20,3,namecheap,,
 57b28a81-3c7c-4f20-a92f-e332b2330fe7,throngs.diy,available,39.99,,53,2,7,name.com,,
 57c1c1de-844d-4058-b832-b1545242fe4d,oldriver.diy,available,5.49,39.99,52,2,9,namesilo,,
-57ce93c4-275b-4ca1-95c6-638386b3336b,billofrights.diy,available,39.99,,70,3,14,name.com,,
