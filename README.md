@@ -1,10 +1,10 @@
-# Available .DIY One-Word Domains (11,561)
+# Available .DIY One-Word Domains (12,146)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C561%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C146%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .diy one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,561 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,146 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,561 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,146 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/diy`  
 **Best for:** founders, investors, studios
 
@@ -66,23 +66,23 @@ print(df.head())
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
 | neuroscience.diy  | available | $39.99    | —             | 80             | 37     | 12     | name.com        |
 | robots.diy        | resell    | —         | —             | 62             | 47     | 6      | Porkbun LLC     |
-| insight.diy       | premium   | $437.50   | —             | 76             | 69     | 8      | name.com        |
+| hotels.diy        | premium   | $875      | —             | 64             | 82     | 6      | name.com        |
 | spectra.diy       | available | $39.99    | —             | 62             | 34     | 7      | name.com        |
 | Tools.diy         | resell    | —         | —             | 56             | 40     | 5      | NameSilo, LLC   |
-| makers.diy        | premium   | $437.50   | —             | 62             | 67     | 6      | name.com        |
+| insight.diy       | premium   | $437.50   | —             | 76             | 69     | 8      | name.com        |
 | letsgo.diy        | available | $39.99    | —             | 57             | 31     | 7      | name.com        |
 | intelligence.diy  | resell    | —         | —             | 84             | 38     | 12     | Spaceship, Inc. |
-| donuts.diy        | premium   | $437.50   | —             | 54             | 62     | 6      | name.com        |
+| makers.diy        | premium   | $437.50   | —             | 62             | 67     | 6      | name.com        |
 | rekt.diy          | available | $39.99    | —             | 40             | 24     | 4      | name.com        |
-| travelers.diy     | premium   | $437.50   | —             | 58             | 61     | 9      | name.com        |
+| donuts.diy        | premium   | $437.50   | —             | 54             | 62     | 6      | name.com        |
 | superhero.diy     | available | $39.99    | —             | 84             | 23     | 9      | name.com        |
-| RedSox.diy        | premium   | $490      | $700          | 72             | 60     | 7      | namecheap       |
-| inhouse.diy       | available | $39.99    | —             | 70             | 23     | 8      | name.com        |
-| keepthechange.diy | premium   | $437.50   | —             | 46             | 59     | 15     | name.com        |
+| travelers.diy     | premium   | $437.50   | —             | 58             | 61     | 9      | name.com        |
 | Allie.diy         | available | $51.98    | —             | 72             | 21     | 5      | namecheap       |
-| Books.diy         | premium   | $98       | $140          | 52             | 49     | 5      | namecheap       |
+| RedSox.diy        | premium   | $490      | $700          | 72             | 60     | 7      | namecheap       |
 | bubbles.diy       | available | $39.99    | —             | 72             | 21     | 7      | name.com        |
-| cars.diy          | premium   | $875      | —             | 66             | 47     | 4      | name.com        |
+| keepthechange.diy | premium   | $437.50   | —             | 46             | 59     | 15     | name.com        |
+| blogs.diy         | available | $5.49     | $39.99        | 52             | 21     | 5      | namesilo        |
+| jobs.diy          | premium   | $875      | —             | 79             | 42     | 4      | name.com        |
 | workers.diy       | available | $39.99    | —             | 60             | 20     | 7      | name.com        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 11,561 live domains                              |
+| 1,000-row public sample | 12,146 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DIY One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DIY One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
