@@ -551,6 +551,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 2f69b5ab-8370-45f6-99ed-9753777a8c7f,differed.diy,available,5.49,39.99,48,2,8,namesilo,,
 2f9fe0d8-07f2-4bab-acb8-faf4f475aaa3,travellers.diy,available,39.99,,53,11,10,name.com,,
 2fa75ecb-d2b9-4f72-942e-fc714547416c,conductcode.diy,available,39.99,,50,1,12,name.com,,
+2fa9fcb8-76aa-4b17-9ff8-1388150d7d08,survey.diy,premium,,,72,36,6,,,
 2fb48b17-e3b4-4afd-82fd-2fb054d37391,flashmemory.diy,available,39.99,,76,2,12,name.com,,
 2fe18ee5-ed6b-41b1-a098-de14428aede8,deciders.diy,available,5.49,39.99,56,3,8,namesilo,,
 30085109-8753-4d02-a687-b252db52d719,thesame.diy,available,39.99,,54,5,8,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 57a890f8-9e3e-4412-9642-155a3ea55bbc,multipurpose.diy,available,39.99,,54,4,13,name.com,,
 57b0483c-fe28-4518-9d4b-9938de68ef03,VHS.diy,premium,245,350,71,20,3,namecheap,,
 57b28a81-3c7c-4f20-a92f-e332b2330fe7,throngs.diy,available,39.99,,53,2,7,name.com,,
-57c1c1de-844d-4058-b832-b1545242fe4d,oldriver.diy,available,5.49,39.99,52,2,9,namesilo,,
