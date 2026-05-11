@@ -20,6 +20,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 00e9942d-2907-4071-b185-12460182bb72,hides.diy,premium,87.5,,50,5,5,name.com,,
 01040eb4-96cc-497c-bc8b-5eb06b2de767,childmarriage.diy,available,39.99,,48,2,14,name.com,,
 0118bff4-ec18-456d-9bfa-7df51dd43d77,stepforward.diy,available,39.99,,74,10,12,name.com,,
+011b8397-3fde-4869-a0eb-fa4b2919cd43,smartphone.diy,premium,,,78,18,10,,,
 0123cc8e-7815-4d02-bcb3-4f40b220b60d,jetblack.diy,available,39.99,,82,8,9,name.com,,
 012749c8-dfb7-4c2c-8fe0-a9132bb7e731,scenes.diy,available,39.99,,54,8,6,name.com,,
 012e7045-93ff-4510-bdd1-8bd5a839afd9,spellitout.diy,available,39.99,,74,2,12,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 57a1229c-ab9d-483e-b2f5-8b0b3e09ce5f,primadonna.diy,available,39.99,,68,9,11,name.com,,
 57a890f8-9e3e-4412-9642-155a3ea55bbc,multipurpose.diy,available,39.99,,54,4,13,name.com,,
 57b0483c-fe28-4518-9d4b-9938de68ef03,VHS.diy,premium,245,350,71,20,3,namecheap,,
-57b28a81-3c7c-4f20-a92f-e332b2330fe7,throngs.diy,available,39.99,,53,2,7,name.com,,
