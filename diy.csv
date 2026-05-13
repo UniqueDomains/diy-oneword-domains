@@ -872,7 +872,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 4b6ae23f-01af-474f-9edd-67fa36e63f6e,plugs.diy,premium,87.5,,49,8,5,name.com,,
 4b7cb2cf-203b-40ce-80ff-44dba472b6a8,alcoholaddiction.diy,available,39.99,,50,3,17,name.com,,
 4ba356ac-bd6c-41c6-9609-591d9e2ac312,lunchmaking.diy,available,39.99,,78,1,11,name.com,,
-4bed6c64-f1c7-4554-b7ba-8ef3ffff1aa7,intelligence.diy,resell,,,84,38,12,"Spaceship, Inc.",07/02/2026 14:24,07/02/2027 14:24
+4bed6c64-f1c7-4554-b7ba-8ef3ffff1aa7,intelligence.diy,resell,,,84,39,12,"Spaceship, Inc.",07/02/2026 14:24,07/02/2027 14:24
 4bfc78db-e8e7-4ada-b892-76c68d07c411,gascooker.diy,available,39.99,,52,1,10,name.com,,
 4bfe8f74-fb63-4445-93be-90c3c69cfa5b,grouptherapy.diy,available,39.99,,72,4,13,name.com,,
 4c34d4e6-69f1-4efd-a422-959c5fce0c89,givingbirth.diy,available,39.99,,89,2,12,name.com,,

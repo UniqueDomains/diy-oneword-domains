@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .diy one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,166 domains · **Median ask:** $110.13 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-11  
+**Last updated:** 2026-05-13  
 **Canonical page:** `https://unique.domains/domains/tld/diy`  
 **Best for:** founders, investors, studios
 
@@ -71,7 +71,7 @@ print(df.head())
 | Tools.diy         | resell    | —         | —             | 56             | 40     | 5      | NameSilo, LLC   |
 | insight.diy       | premium   | $437.50   | —             | 76             | 69     | 8      | name.com        |
 | letsgo.diy        | available | $39.99    | —             | 57             | 31     | 7      | name.com        |
-| intelligence.diy  | resell    | —         | —             | 84             | 38     | 12     | Spaceship, Inc. |
+| intelligence.diy  | resell    | —         | —             | 84             | 39     | 12     | Spaceship, Inc. |
 | makers.diy        | premium   | $437.50   | —             | 62             | 67     | 6      | name.com        |
 | rekt.diy          | available | $39.99    | —             | 40             | 24     | 4      | name.com        |
 | donuts.diy        | premium   | $437.50   | —             | 54             | 62     | 6      | name.com        |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DIY One-Word Domains*. Version 2026-05-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DIY One-Word Domains*. Version 2026-05-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
