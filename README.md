@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .diy one-word domains from 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,167 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,167 domains · **Median ask:** $110.13 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,167 domains · **Median ask:** $151.92 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/diy`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/diy`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .DIY one-word domain c
 
 ### Files
 
-- `diy.csv` — public CSV extract (1,000 rows)
-- `diy.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `diy.csv`, public CSV extract (1,000 rows)
+- `diy.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| neuroscience.diy  | available | $39.99    | —             | 80             | 37     | 12     | name.com        |
-| robots.diy        | resell    | —         | —             | 62             | 47     | 6      | Porkbun LLC     |
-| hotels.diy        | premium   | $875      | —             | 64             | 82     | 6      | name.com        |
-| spectra.diy       | available | $39.99    | —             | 62             | 34     | 7      | name.com        |
-| Tools.diy         | resell    | —         | —             | 56             | 40     | 5      | NameSilo, LLC   |
-| insight.diy       | premium   | $437.50   | —             | 76             | 69     | 8      | name.com        |
-| letsgo.diy        | available | $39.99    | —             | 57             | 31     | 7      | name.com        |
-| intelligence.diy  | resell    | —         | —             | 84             | 39     | 12     | Spaceship, Inc. |
-| makers.diy        | premium   | $437.50   | —             | 62             | 67     | 6      | name.com        |
-| rekt.diy          | available | $39.99    | —             | 40             | 24     | 4      | name.com        |
-| donuts.diy        | premium   | $437.50   | —             | 54             | 62     | 6      | name.com        |
-| superhero.diy     | available | $39.99    | —             | 84             | 23     | 9      | name.com        |
-| travelers.diy     | premium   | $437.50   | —             | 58             | 61     | 9      | name.com        |
-| Allie.diy         | available | $51.98    | —             | 72             | 21     | 5      | namecheap       |
-| RedSox.diy        | premium   | $490      | $700          | 72             | 60     | 7      | namecheap       |
-| bubbles.diy       | available | $39.99    | —             | 72             | 21     | 7      | name.com        |
-| keepthechange.diy | premium   | $437.50   | —             | 46             | 59     | 15     | name.com        |
-| blogs.diy         | available | $5.49     | $39.99        | 52             | 21     | 5      | namesilo        |
-| jobs.diy          | premium   | $875      | —             | 79             | 42     | 4      | name.com        |
-| workers.diy       | available | $39.99    | —             | 60             | 20     | 7      | name.com        |
+| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar    |
+| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
+| one.diy    | premium   | $1,820    | $2,600        | high           | medium | 3      | namecheap    |
+| simple.diy | premium   | $1,820    | $2,600        | high           | medium | 6      | namecheap    |
+| boob.diy   | available | $5.49     | $39.99        | high           | low    | 4      | namesilo     |
+| bold.diy   | resell    | —         | —             | high           | high   | 4      | Dynadot, LLC |
+| ada.diy    | premium   | $875      | —             | medium         | medium | 3      | name.com     |
+| html.diy   | available | $5.49     | $39.99        | high           | low    | 4      | namesilo     |
+| ADS.diy    | premium   | $875      | —             | high           | medium | 3      | name.com     |
+| Elias.diy  | available | $5.49     | $39.99        | high           | low    | 5      | namesilo     |
+| ale.diy    | premium   | $875      | —             | medium         | low    | 3      | name.com     |
+| heard.diy  | available | $5.49     | $39.99        | medium         | low    | 5      | namesilo     |
+| all.diy    | premium   | $910      | $1,300        | high           | medium | 3      | namecheap    |
+| ohoh.diy   | available | $5.49     | $39.99        | high           | low    | 5      | namesilo     |
+| arm.diy    | premium   | $437.50   | —             | high           | medium | 3      | name.com     |
+| orso.diy   | available | $5.49     | $39.99        | medium         | low    | 5      | namesilo     |
+| ash.diy    | premium   | $875      | —             | medium         | low    | 3      | name.com     |
+| owens.diy  | available | $5.49     | $39.99        | medium         | low    | 5      | namesilo     |
+| bee.diy    | premium   | $875      | —             | high           | medium | 3      | name.com     |
+| stark.diy  | available | $5.49     | $39.99        | high           | medium | 5      | namesilo     |
+| big.diy    | premium   | $455      | $650          | high           | medium | 3      | namecheap    |
+| sweat.diy  | available | $5.49     | $39.99        | medium         | low    | 5      | namesilo     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are single-word names on the .diy extension. The set spans broad dictionary-style terms, from direct words like movie.diy and sense.diy to more abstract options like beyond.diy and yet.diy. For founders, the key question is whether the word stays clear and memorable when paired with .diy. For investors, the focus is how much the term improves resale odds inside a niche extension where keyword fit matters more than raw novelty. With a median ask of 110.13, price is accessible, but selection discipline matters: stronger words tend to be short, readable, commercially flexible, and naturally connected to making, building, learning, or self-serve projects.
+This is a focused list of one-word .diy domain names built from common, everyday English words rather than invented terms. Names like out.diy, half.diy, christmas.diy, and sorry.diy show the range: short, pronounceable, and easy to remember, which fits the hands-on, maker-culture identity of the .diy extension. With a median ask near $152 across 12,167 names, entry pricing stays low relative to legacy TLDs, giving both early-stage buyers and long-term holders room to act before demand concentrates on the cleanest words.
 
-- Prioritize words that feel natural with the .diy ending
-- Check whether the term is broad, clear, and easy to remember
-- Use ask price with renewal cost to judge real holding risk
-- Avoid words that feel awkward, vague, or trademark-sensitive
+- 12,167 one-word .diy domains built from common English words
+- Median ask near $152 keeps entry cost low for buyers
+- Short names like out.diy and half.diy fit DIY-style brands
+- Pricing updates daily to reflect current ask levels
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DIY One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DIY One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
