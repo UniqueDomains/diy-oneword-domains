@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .diy one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 17,058 domains · **Median ask:** $104.79 · **High-demand under $2,500:** 50
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/diy`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar    |
-| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
-| boob.diy  | available | $5.49     | $39.99        | high           | low    | 4      | namesilo     |
-| bold.diy  | resell    | —         | —             | high           | high   | 4      | Dynadot, LLC |
-| ada.diy   | premium   | $875      | —             | medium         | medium | 3      | name.com     |
-| html.diy  | available | $5.49     | $39.99        | high           | low    | 4      | namesilo     |
-| ADS.diy   | premium   | $875      | —             | high           | medium | 3      | name.com     |
-| lxii.diy  | available | $4.98     | $51.98        | low            | low    | 4      | namecheap    |
-| ale.diy   | premium   | $875      | —             | medium         | low    | 3      | name.com     |
-| Elias.diy | available | $5.49     | $39.99        | high           | low    | 5      | namesilo     |
-| all.diy   | premium   | $910      | $1,300        | high           | medium | 3      | namecheap    |
-| heard.diy | available | $5.49     | $39.99        | medium         | low    | 5      | namesilo     |
-| arm.diy   | premium   | $437.50   | —             | high           | medium | 3      | name.com     |
-| lviii.diy | available | $4.98     | $51.98        | low            | low    | 5      | namecheap    |
-| ash.diy   | premium   | $875      | —             | medium         | low    | 3      | name.com     |
-| lxiii.diy | available | $4.98     | $51.98        | low            | low    | 5      | namecheap    |
-| ass.diy   | premium   | $875      | $1,250        | low            | low    | 3      | name.com     |
-| ohoh.diy  | available | $5.49     | $39.99        | high           | low    | 5      | namesilo     |
-| bee.diy   | premium   | $875      | —             | high           | medium | 3      | name.com     |
-| orso.diy  | available | $5.49     | $39.99        | medium         | low    | 5      | namesilo     |
-| big.diy   | premium   | $455      | $650          | high           | medium | 3      | namecheap    |
-| owens.diy | available | $5.49     | $39.99        | medium         | low    | 5      | namesilo     |
+| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar    |
+| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
+| one.diy    | premium   | $1,820    | $2,600        | high           | medium | 3      | namecheap    |
+| simple.diy | premium   | $1,820    | $2,600        | high           | medium | 6      | namecheap    |
+| boob.diy   | available | $5.49     | $39.99        | high           | low    | 4      | namesilo     |
+| bold.diy   | resell    | —         | —             | high           | high   | 4      | Dynadot, LLC |
+| ada.diy    | premium   | $875      | —             | medium         | medium | 3      | name.com     |
+| html.diy   | available | $5.49     | $39.99        | high           | low    | 4      | namesilo     |
+| ADS.diy    | premium   | $875      | —             | high           | medium | 3      | name.com     |
+| lxii.diy   | available | $4.98     | $51.98        | low            | low    | 4      | namecheap    |
+| ale.diy    | premium   | $875      | —             | medium         | low    | 3      | name.com     |
+| Elias.diy  | available | $5.49     | $39.99        | high           | low    | 5      | namesilo     |
+| all.diy    | premium   | $910      | $1,300        | high           | medium | 3      | namecheap    |
+| heard.diy  | available | $5.49     | $39.99        | medium         | low    | 5      | namesilo     |
+| arm.diy    | premium   | $437.50   | —             | high           | medium | 3      | name.com     |
+| lviii.diy  | available | $4.98     | $51.98        | low            | low    | 5      | namecheap    |
+| ash.diy    | premium   | $875      | —             | medium         | low    | 3      | name.com     |
+| lxiii.diy  | available | $4.98     | $51.98        | low            | low    | 5      | namecheap    |
+| ass.diy    | premium   | $875      | $1,250        | low            | low    | 3      | name.com     |
+| ohoh.diy   | available | $5.49     | $39.99        | high           | low    | 5      | namesilo     |
+| bee.diy    | premium   | $875      | —             | high           | medium | 3      | name.com     |
+| orso.diy   | available | $5.49     | $39.99        | medium         | low    | 5      | namesilo     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DIY One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DIY One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
