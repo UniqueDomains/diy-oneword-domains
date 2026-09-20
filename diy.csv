@@ -10,12 +10,12 @@ c9418860-353a-4ee9-a566-cca3c63c4f77,motoroil.diy,available,5.49,39.99,medium,lo
 dbbf779b-4d3a-4f77-b558-39d19e39c82f,expose.diy,premium,437.5,,high,low,6,name.com,,,
 81e78927-b15a-4dfc-8abc-cb0d07abc305,worthy.diy,available,5.49,39.99,high,low,6,namesilo,,,
 9de787c0-5b68-4363-a107-884793b7d2bf,somebudy.diy,available,5.49,39.99,medium,low,8,namesilo,,,
-7a246ad5-822c-4e11-a613-13121ade5d4f,Walmart.diy,available,,,high,medium,7,,,,
+7a246ad5-822c-4e11-a613-13121ade5d4f,walmart.diy,available,,,high,medium,7,,,,
 82859aff-52bb-439c-b91c-a8ce6d9d0eb9,seriousness.diy,available,5.49,39.99,low,low,11,namesilo,,,
 8fff3f81-b2fa-4d88-8e1c-fe0ef17c44f0,borrow.diy,available,5.49,39.99,medium,low,6,namesilo,,,
 a4b9dea0-d3e5-46d8-bd02-2dfabee78f99,circuit.diy,available,5.49,39.99,high,low,7,namesilo,,,
 faf35a93-80c1-43b4-926d-85235002548f,lousy.diy,premium,91,130,medium,low,5,namecheap,,,
-c46c95a1-60d4-44a8-b7a4-724f14bf81eb,StAugustine.diy,available,5.49,39.99,medium,low,13,namesilo,,,
+c46c95a1-60d4-44a8-b7a4-724f14bf81eb,staugustine.diy,available,5.49,39.99,medium,low,13,namesilo,,,
 94781d0d-bb99-4a2c-9e73-fc4e5983cb9d,customise.diy,available,5.49,39.99,high,low,9,namesilo,,,
 dbac21f2-10bd-4a56-8243-a9bbbb38d6ff,man.diy,premium,437.5,,high,low,3,name.com,,,
 e4b53d1c-b56e-4be5-9945-278eeaedf8b1,firefighter.diy,available,39.99,,high,low,11,name.com,,,
@@ -46,10 +46,10 @@ ae7f30a9-2322-4a3e-8ec7-1ccf99f1f0f1,riceflour.diy,available,5.49,39.99,low,low,
 682c2bfa-529d-4e04-8789-5cb13504e5b9,relevance.diy,premium,437.5,,high,low,9,name.com,,,
 cc8c2747-38f0-4b19-9dbd-6d226548f3c0,lviii.diy,available,4.98,51.98,low,low,5,namecheap,,,
 bb551fbd-8fbc-4244-96cc-94a26a1d6491,turn.diy,premium,218.75,,high,low,4,name.com,,,
-c3488c06-e742-4132-83b5-a6d4a1e2c6b4,Ijustworkhere.diy,available,5.49,39.99,medium,low,16,namesilo,,,
+c3488c06-e742-4132-83b5-a6d4a1e2c6b4,ijustworkhere.diy,available,5.49,39.99,medium,low,16,namesilo,,,
 78605863-c7e0-4c31-aceb-01172b71e2b5,recondite.diy,available,4.98,51.98,low,low,9,namecheap,,,
 3a2253d5-5a8c-4a01-b783-d1eb5280eb1d,giveortake.diy,available,5.49,39.99,medium,low,12,namesilo,,,
-0122780c-872f-4a01-91fd-a9ef1e060708,fund.diy,premium,1750,,high,low,4,name.com,,,
+0122780c-872f-4a01-91fd-a9ef1e060708,fund.diy,premium,1820,2600,medium,low,4,namecheap,,,19/09/2026 13:44
 66355bea-0d64-4e2c-acf9-02e5d8700709,pastoral.diy,available,4.98,51.98,medium,low,8,namecheap,,,06/08/2026 14:20
 6030580d-765a-4110-b346-3b4d16fb3fa9,resultant.diy,available,4.98,51.98,low,low,9,namecheap,,,
 56d50cef-18db-48d8-b8fc-c00d5daa385b,oil.diy,premium,910,1300,high,low,3,namecheap,,,
@@ -69,7 +69,7 @@ bbeff7eb-a8e0-4a0c-8802-a58effb8051f,penny.diy,premium,437.5,,medium,low,5,name.
 7b967b0d-629a-485a-96a1-f4c102163f47,blunt.diy,premium,875,,medium,low,5,name.com,,,
 024c6e4d-a5bc-40a4-a429-7f40cf626a7d,believeyoume.diy,available,5.49,39.99,medium,low,14,namesilo,,,
 4f359d3b-09cf-42cb-bd49-fbaf8ae66c72,triplet.diy,available,4.98,51.98,low,low,7,namecheap,,,
-45b63751-581b-4e82-8441-56c21b8f0ac3,Romanfoot.diy,available,39.99,,low,low,10,name.com,,,
+45b63751-581b-4e82-8441-56c21b8f0ac3,romanfoot.diy,available,39.99,,low,low,10,name.com,,,
 ad6fe3a4-5d94-4442-af98-9be1825dcb22,chew.diy,premium,218.75,,medium,low,4,name.com,,,
 408de8e4-7781-4194-83b0-4aa127aa2964,twine.diy,premium,87.5,,medium,low,5,name.com,,,
 2d642b09-b68e-4010-839c-b95c21c18438,apogamous.diy,available,4.98,51.98,low,low,9,namecheap,,,06/08/2026 01:52
@@ -78,7 +78,7 @@ cb4c82bd-3be0-44bf-a413-946fd2a441d0,taxreturn.diy,available,5.49,39.99,medium,l
 da0803ff-5294-4590-93ca-9c95329ad1cf,analytical.diy,available,4.98,51.98,low,low,10,namecheap,,,
 b732d0d7-2b8a-49cd-bdbf-b5f4ea35d919,keep.diy,premium,218.75,,high,low,4,name.com,,,
 02e71fce-ffda-40ff-8c68-92b7d21ed36c,dramatic.diy,available,39.99,59.99,medium,low,8,name.com,,,
-3cad7770-b686-41f1-b0ac-cfbec639e06a,Canadas.diy,available,39.99,,medium,low,7,name.com,,,
+3cad7770-b686-41f1-b0ac-cfbec639e06a,canadas.diy,available,39.99,,medium,low,7,name.com,,,
 a4381663-5388-433b-8595-2adad6063ed9,vary.diy,premium,218.75,,high,low,4,name.com,,,
 19d9b7e0-1e88-4997-9331-8e8c63014a5f,gently.diy,available,39.99,,high,low,6,name.com,,,
 998ab49f-b1e9-470d-b044-ed950c9a72b3,complain.diy,available,5.49,39.99,medium,low,8,namesilo,,,
@@ -153,7 +153,7 @@ fa12f6ca-1f83-4218-aa4b-90666ddc9105,awkward.diy,premium,437.5,,high,low,7,name.
 ee8fdbd1-5912-4068-9f8f-9d75fd2dea38,toneofvoice.diy,available,5.49,39.99,low,low,13,namesilo,,,
 86ab5c4c-c568-4ae2-9af7-8d2bf228f052,answering.diy,available,39.99,,high,low,9,name.com,,,
 7867d96b-1e45-4bc9-9bc4-338c861baf95,tickledpink.diy,available,5.49,39.99,medium,low,12,namesilo,,,
-8fbcbded-185d-4a23-b984-a9f3462db56c,Codes.diy,premium,87.5,,medium,low,5,name.com,,,
+8fbcbded-185d-4a23-b984-a9f3462db56c,codes.diy,premium,87.5,,medium,low,5,name.com,,,
 6106804a-03c0-4085-9579-829a1f8838b9,contact.diy,premium,437.5,,high,medium,7,name.com,,,
 e9ad67e0-4444-491c-bc16-b671f05ad835,heatup.diy,available,5.49,39.99,high,low,7,namesilo,,,
 2a634473-59a4-4ce8-9d14-96618de3d15b,stemless.diy,available,4.98,51.98,low,low,8,namecheap,,,
@@ -165,7 +165,7 @@ beecedbe-fe18-4cda-a370-55236012d23c,warofwords.diy,available,5.49,39.99,low,low
 986074dc-69f3-45ed-91a4-35803c895258,transparent.diy,available,39.99,,high,low,11,name.com,,,
 83d8de61-0f54-45b2-b226-2d65c2a1b884,cognisant.diy,available,4.98,51.98,low,low,9,namecheap,,,08/08/2026 00:18
 4e8dc2eb-f765-4901-9b18-6a22ed4436e9,comic.diy,premium,437.5,,high,low,5,name.com,,,
-b596eff4-5d2e-4b51-a4ba-f2deb0721e98,Frenchroast.diy,available,39.99,,medium,low,12,name.com,,,
+b596eff4-5d2e-4b51-a4ba-f2deb0721e98,frenchroast.diy,available,39.99,,medium,low,12,name.com,,,
 fa54f70c-d3b8-4d17-ade6-b3c7eda72380,sip.diy,premium,875,,medium,low,3,name.com,,,
 746e4eb5-bd17-42c8-b5da-a411a996ea3b,asphaltic.diy,available,4.98,51.98,low,low,9,namecheap,,,07/08/2026 04:46
 bf91eb29-2836-48b2-a543-f9a31da4b5c0,lettertelegram.diy,available,5.49,39.99,medium,low,15,namesilo,,,
@@ -175,10 +175,10 @@ bf91eb29-2836-48b2-a543-f9a31da4b5c0,lettertelegram.diy,available,5.49,39.99,med
 018327ff-b782-43f9-92b6-82dc986c3cc3,nationalanthem.diy,available,39.99,,high,low,15,name.com,,,
 04bdb66e-396e-4187-8d27-672004ca579e,glory.diy,premium,875,,high,low,5,name.com,,,
 df32038d-f313-4847-80cf-fcb4af982773,fascinate.diy,available,5.49,39.99,high,low,9,namesilo,,,
-ac1911e1-5e38-4525-a58b-4a508f04f082,video.diy,premium,875,,high,medium,5,name.com,,,
+ac1911e1-5e38-4525-a58b-4a508f04f082,video.diy,premium,1107,1107,medium,low,5,namesilo,,,19/09/2026 06:19
 60861ec9-f57a-41ed-815d-2336d8e2ff96,atypical.diy,available,4.98,51.98,medium,low,8,namecheap,,,07/08/2026 16:06
-f59b342d-010c-4fee-85f7-aef60335987a,spread.diy,premium,455,650,high,low,6,namecheap,,,
-c39ef1e0-207e-4b31-9a34-3c6c9cdf4306,Elias.diy,available,5.49,39.99,high,low,5,namesilo,,,
+f59b342d-010c-4fee-85f7-aef60335987a,spread.diy,premium,640,640,medium,low,6,namesilo,,,19/09/2026 12:51
+c39ef1e0-207e-4b31-9a34-3c6c9cdf4306,elias.diy,available,5.49,39.99,high,low,5,namesilo,,,
 b7c716d1-71ff-4a33-a008-e61ae196c764,html.diy,available,5.49,39.99,high,low,4,namesilo,,,
 11f470fa-58a6-43ee-bdfb-ace065df006e,ashgray.diy,available,4.98,51.98,low,low,8,namecheap,,,07/08/2026 01:59
 55154699-dbd8-4fce-9e1a-d5134e4f1773,los.diy,premium,437.5,,high,low,3,name.com,,,
@@ -207,7 +207,7 @@ d8a89011-6224-4e75-a15f-8fd4743884ca,vouchfor.diy,available,39.99,,low,low,9,nam
 6e22cfbc-f781-42fb-b09f-0d54fc8e49d5,travelagency.diy,available,39.99,,high,low,13,name.com,,,
 f4ed2a53-201e-41fe-9ab9-676de56f016e,bailable.diy,available,4.98,51.98,low,low,8,namecheap,,,08/08/2026 08:47
 3d960aca-0489-4425-a421-2b0393c3ab67,acidfast.diy,available,4.98,51.98,low,low,9,namecheap,,,
-cc1dfb1b-4d76-4616-b6c1-dd9fdeb68cf9,green.diy,premium,1820,2600,medium,medium,5,namecheap,,,14/09/2026 02:46
+cc1dfb1b-4d76-4616-b6c1-dd9fdeb68cf9,green.diy,premium,2660,2660,medium,low,5,namesilo,,,19/09/2026 05:52
 39fba859-9be3-4690-be96-4b1d5691d7ce,arm.diy,premium,437.5,,high,medium,3,name.com,,,
 8d039224-220c-4c06-b2b4-60d979845ee6,arco.diy,premium,218.75,312.5,low,low,4,name.com,,,06/08/2026 16:02
 f4170c3e-8c99-49ac-8fc8-e7fef4e03658,undergraduate.diy,available,5.49,39.99,high,low,13,namesilo,,,
@@ -227,7 +227,7 @@ b975c1fc-2a1a-4b9d-950a-d3ed93b72c6b,surrender.diy,premium,437.5,,high,low,9,nam
 0b05051c-537a-4fc5-9cff-7b6935d848a5,awheel.diy,available,4.98,51.98,low,low,6,namecheap,,,08/08/2026 01:05
 235e37ca-59c2-4fed-a3f5-9c8e007299d8,shaky.diy,premium,87.5,,medium,low,5,name.com,,,
 0a860939-ab47-4751-855f-5b094322dfa9,pittsburgh.diy,premium,87.5,,medium,low,10,name.com,,,
-070ef15a-26ba-4f3d-8c90-169134f69add,SierraLeone.diy,available,,,low,low,12,,,,
+070ef15a-26ba-4f3d-8c90-169134f69add,sierraleone.diy,available,,,low,low,12,,,,
 6c440332-f9ee-47ee-b902-7536408f22b9,refreshed.diy,available,5.49,39.99,high,low,9,namesilo,,,
 ad2a3839-9020-4f06-ab42-17d05ab823b7,adaxial.diy,available,4.98,51.98,low,low,7,namecheap,,,
 b8d8d3be-050e-4d34-97d6-eefd235800f2,inkind.diy,available,4.98,51.98,low,low,7,namecheap,,,15/09/2026 04:38
@@ -244,7 +244,7 @@ a6a666bd-7161-487e-9e5b-4571dd993e54,lead.diy,premium,437.5,,high,low,4,name.com
 b2a5b154-543c-4acd-b861-b3c6499092b7,gomental.diy,available,5.49,39.99,medium,low,9,namesilo,,,
 bbb9d7e7-8b38-4cc0-8b3a-890409ed4f34,disclosure.diy,available,39.99,,medium,low,10,name.com,,,
 7f9700f6-d10a-4653-b9de-722b8b10038a,itchy.diy,premium,87.5,125,low,low,5,name.com,,,05/08/2026 20:43
-5ef1011c-8412-4e59-a9ab-7a090543ad22,AsianTiger.diy,available,5.49,39.99,medium,low,11,namesilo,,,
+5ef1011c-8412-4e59-a9ab-7a090543ad22,asiantiger.diy,available,5.49,39.99,medium,low,11,namesilo,,,
 788b54e6-dbaa-4bba-8f49-dd01ffe18eb1,giveitup.diy,available,5.49,39.99,high,low,10,namesilo,,,
 425ff488-9e26-4051-949b-44d2096e7849,cheerily.diy,available,5.49,39.99,medium,low,8,namesilo,,,
 c2b3ce61-3d8a-4496-b9b8-8cfbd31f8e64,protest.diy,available,39.99,,high,low,7,name.com,,,
@@ -267,7 +267,7 @@ bb6f39a7-0b54-4b06-b837-143774be90ec,avertible.diy,available,4.98,51.98,low,low,
 38bf2c32-fdaf-4b64-81ba-6c9671e8fbe0,namedafter.diy,available,39.99,,low,low,11,name.com,,,
 dc575c49-5376-4752-b274-9a223e3aef2f,structures.diy,available,5.49,39.99,low,low,10,namesilo,,,
 98f09a59-1bdc-42a8-9b6c-49ce44750a37,candybar.diy,available,5.49,39.99,high,low,9,namesilo,,,
-bd1f4bab-b666-44a9-9d96-503f8a002f67,ADS.diy,premium,875,,high,medium,3,name.com,,,
+bd1f4bab-b666-44a9-9d96-503f8a002f67,ads.diy,premium,875,,high,medium,3,name.com,,,
 11796cb1-cbdc-4c57-b692-0f9590a041a4,word.diy,premium,218.75,,high,low,4,name.com,,,
 a0948e8b-7082-4450-b22c-d428ea1f8296,saintly.diy,available,4.98,51.98,low,low,7,namecheap,,,
 90b78a7e-512b-4f4a-a699-d01fd544c12c,onabout.diy,available,39.99,,low,low,8,name.com,,,
@@ -275,7 +275,7 @@ a0948e8b-7082-4450-b22c-d428ea1f8296,saintly.diy,available,4.98,51.98,low,low,7,
 0475e014-e4ab-4b11-9371-6b59cdff505a,groundless.diy,available,4.98,51.98,low,low,10,namecheap,,,08/08/2026 21:49
 161c4ead-b3a0-4fc3-a09f-1b9b70343615,superb.diy,premium,437.5,,high,low,6,name.com,,,
 0a30bcf5-358e-4397-a5ad-a34fa378b071,whitehot.diy,available,5.49,39.99,medium,low,9,namesilo,,,
-8496a5ac-198e-46e9-bccf-232a7360d14b,StClair.diy,available,5.49,39.99,medium,low,9,namesilo,,,
+8496a5ac-198e-46e9-bccf-232a7360d14b,stclair.diy,available,5.49,39.99,medium,low,9,namesilo,,,
 88f5e617-4e3d-41c1-a0e4-cf457428e538,decent.diy,available,4.98,51.98,low,low,6,namecheap,,,09/08/2026 06:17
 788ca6e9-1b2c-48f3-94c2-1265c90bc42b,asterismal.diy,available,4.98,51.98,low,low,10,namecheap,,,07/08/2026 09:01
 3a6c7cc9-7dd1-4519-a9f7-01da0dfff015,links.diy,premium,875,,high,low,5,name.com,,,
@@ -288,7 +288,7 @@ c1fb89ee-72d1-490b-a974-860ab8127638,worthwhile.diy,available,5.49,39.99,high,lo
 d1a88839-802c-4019-908e-4436973511f9,aminic.diy,available,4.98,51.98,low,low,6,namecheap,,,
 53d4e7bf-7634-44cb-a52a-e958c0ffdbc3,unhappiness.diy,available,39.99,,low,low,11,name.com,,,
 9af5bab1-e536-4ff0-b527-5c1e7189aa39,acetylic.diy,available,4.98,51.98,low,low,8,namecheap,,,
-25fcf621-ac50-4702-9193-b77d7594b62a,reddish.diy,available,4.98,51.98,low,low,7,namecheap,,,08/09/2026 04:19
+25fcf621-ac50-4702-9193-b77d7594b62a,reddish.diy,available,5.49,39.99,low,low,7,namesilo,,,19/09/2026 03:49
 d67b034c-30f8-4587-b54f-6c9cc6573283,normality.diy,available,5.49,39.99,high,low,9,namesilo,,,
 99f662e7-2e89-473f-9a13-ecc1529f8129,abactinal.diy,available,4.98,51.98,low,low,9,namecheap,,,
 a759593d-ef3c-4de7-b82e-38f94a1c698b,inadvance.diy,available,4.98,51.98,low,low,10,namecheap,,,09/08/2026 08:47
@@ -300,7 +300,7 @@ cd321d94-00a9-47ab-b561-6759f0867372,autoimmune.diy,available,4.98,51.98,low,low
 7a82c8d2-d754-4aad-b462-075d5f0a848b,sitdown.diy,available,5.49,39.99,medium,low,8,namesilo,,,
 c2742b5b-c462-4f55-b1fc-2f7ffc1e0a23,sloped.diy,available,4.98,51.98,low,low,6,namecheap,,,07/08/2026 04:26
 c7febd2f-c151-442b-8b99-2f89abda1b13,aweless.diy,available,4.98,51.98,low,low,7,namecheap,,,08/08/2026 00:50
-6251212a-1db3-435a-bf7a-6bb78f9c716d,TraverseCity.diy,premium,87.5,,low,low,13,name.com,,,
+6251212a-1db3-435a-bf7a-6bb78f9c716d,traversecity.diy,premium,87.5,,low,low,13,name.com,,,
 446fa37f-13ec-442b-bac5-9aca11ed39ff,bagshaped.diy,available,4.98,51.98,low,low,10,namecheap,,,08/08/2026 08:17
 dc1893ee-81e8-413e-98d7-985650641a46,meantime.diy,available,5.49,39.99,high,low,8,namesilo,,,
 e772cda3-f208-45c6-b977-66471b94dded,howmany.diy,available,5.49,39.99,medium,low,8,namesilo,,,
@@ -324,7 +324,7 @@ a54576a4-0f38-4135-94da-0804dd0d52f8,regardless.diy,available,5.49,39.99,high,lo
 f7ec4b81-de07-4021-b20a-c8ae7312e507,goalong.diy,available,5.49,39.99,high,low,8,namesilo,,,
 25252191-6949-412d-aab4-9a29d7effb58,trees.diy,premium,87.5,,medium,low,5,name.com,,,
 96350b58-80be-4a29-9970-fdf584b8ae7e,educate.diy,available,,,high,low,7,,,,
-9217a20e-b71a-4ea0-9f8e-b080804ed9be,Flowers.diy,premium,875,,high,medium,7,name.com,,,
+9217a20e-b71a-4ea0-9f8e-b080804ed9be,flowers.diy,premium,875,,high,medium,7,name.com,,,
 4af2cede-27e3-4774-b38e-44e50fe76792,citizenship.diy,available,5.49,39.99,high,low,11,namesilo,,,
 5f266375-95a0-4580-8694-842c96f2537a,anapaestic.diy,available,4.98,51.98,low,low,10,namecheap,,,
 245b1b24-e31a-40ce-8353-f8d3dda7d58c,adored.diy,available,5.49,39.99,high,low,6,namesilo,,,
@@ -359,16 +359,16 @@ ef924591-bf4b-4090-b66b-cf607e15a9e6,abaxial.diy,available,4.98,51.98,low,low,7,
 2094fb67-37d6-49c0-9118-12fb8c3aba7d,quick.diy,premium,910,1300,high,medium,5,namecheap,,,
 b4a0a99f-c600-4cbd-93e2-b456975059b8,butthenagain.diy,available,5.49,39.99,medium,low,14,namesilo,,,
 18ff28dc-6219-425e-83e1-529ad9dc9172,argentine.diy,available,,,high,low,9,,,,
-9a602b2d-e212-4c30-8a9e-edbf2d91506c,attainable.diy,available,4.98,51.98,medium,low,10,namecheap,,,15/09/2026 02:33
+9a602b2d-e212-4c30-8a9e-edbf2d91506c,attainable.diy,available,5.49,39.99,medium,low,10,namesilo,,,19/09/2026 04:15
 dee0479b-e882-4c97-a77f-f5d8fcb08262,racist.diy,premium,437.5,625,low,low,6,name.com,,,
-59eccc61-8192-4fb8-8b6a-d872a270ad0f,canon.diy,premium,455,650,medium,medium,5,namecheap,,,14/09/2026 03:48
+59eccc61-8192-4fb8-8b6a-d872a270ad0f,canon.diy,premium,640,640,low,low,5,namesilo,,,19/09/2026 11:56
 3da1f902-6654-4684-96bb-8d845c52d0f5,bakery.diy,available,5.49,39.99,high,low,6,namesilo,,,
 bdaa1809-a61e-4dbf-933b-04fd86104241,luncheonsausage.diy,available,5.49,39.99,high,low,16,namesilo,,,
 ddf14d02-06bc-4860-9a1c-883ddf66962a,transitions.diy,available,5.49,39.99,low,low,11,namesilo,,,
-e8a9b794-4009-48c1-a7af-8bbd0d077069,food.diy,premium,1300,2600,high,medium,4,namecheap,,,
+e8a9b794-4009-48c1-a7af-8bbd0d077069,food.diy,premium,2660,2660,medium,low,4,namesilo,,,19/09/2026 10:31
 1f15c51b-9c17-45b2-8c12-ea9c4a5bb6c4,drive.diy,premium,455,650,high,low,5,namecheap,,,
-822bb62c-cabd-4e84-bc6a-d69b342c5c40,Godforbid.diy,available,39.99,,medium,low,10,name.com,,,
-a22b7f85-76c7-4740-be0f-379227f9ec1d,run.diy,premium,910,1300,medium,medium,3,namecheap,,,15/09/2026 11:30
+822bb62c-cabd-4e84-bc6a-d69b342c5c40,godforbid.diy,available,39.99,,medium,low,10,name.com,,,
+a22b7f85-76c7-4740-be0f-379227f9ec1d,run.diy,premium,1107,1107,medium,low,3,namesilo,,,19/09/2026 07:07
 883b029b-012e-4073-a7fb-b9be4c5841c1,showup.diy,available,5.49,39.99,high,low,7,namesilo,,,
 ddba100f-629f-4a17-a9fc-4f74d07c88d3,enterthechat.diy,available,5.49,39.99,medium,low,14,namesilo,,,
 c7c0bda7-41cb-4659-8007-8c7a37e120c0,side.diy,premium,218.75,,high,low,4,name.com,,,
@@ -383,7 +383,7 @@ a732d85b-d26b-479e-9285-43e237fc8244,anosmatic.diy,available,4.98,51.98,low,low,
 e967334c-f143-4bdb-9a1b-b09a7041f118,poisoning.diy,available,5.49,39.99,medium,low,9,namesilo,,,
 d914dfc3-0a7a-44c5-ab8f-c3a59d3a1adf,observer.diy,premium,87.5,,medium,low,8,name.com,,,
 ad08571b-94cc-4c52-ac90-593c82ce20bc,absorbed.diy,available,5.49,39.99,high,low,8,namesilo,,,
-824fc2fe-fb71-4b65-b493-e3a43e7e6cb9,Jewnose.diy,available,39.99,,medium,low,8,name.com,,,
+824fc2fe-fb71-4b65-b493-e3a43e7e6cb9,jewnose.diy,available,39.99,,medium,low,8,name.com,,,
 398deb42-362e-4b6e-a539-89d48ba590ff,foreign.diy,available,4.98,51.98,low,low,7,namecheap,,,
 a4f9504b-7812-4641-91e9-cdc9823e0d2a,ecological.diy,available,5.49,39.99,high,low,10,namesilo,,,
 e7305d04-09b7-40bc-9444-4d8710805f17,hannukah.diy,available,5.49,39.99,medium,low,8,namesilo,,,
@@ -406,13 +406,13 @@ d057b049-122c-462b-bf91-926ed8bcd387,modernday.diy,available,5.49,39.99,high,low
 d0b1f576-de71-4564-8f79-2ee57e3a58c1,soup.diy,premium,1750,,high,low,4,name.com,,,
 34e1ce5f-9b84-4883-b3c6-62ff4c272ce7,lvi.diy,premium,218.75,312.5,low,low,3,name.com,,,
 8b430daa-67df-4630-a3a7-661b9db9595b,circus.diy,premium,437.5,,high,low,6,name.com,,,
-80c46cf9-b8f7-4481-9f30-026e64d372ee,UnionCity.diy,available,5.49,39.99,low,low,10,namesilo,,,
+80c46cf9-b8f7-4481-9f30-026e64d372ee,unioncity.diy,available,5.49,39.99,low,low,10,namesilo,,,
 ea59d07d-98f6-4248-ae4b-28f857ebde1f,facilitating.diy,available,5.49,39.99,medium,low,12,namesilo,,,
 da94d2d1-901d-49b1-8a69-29f281d285a8,playitsafe.diy,available,5.49,39.99,medium,low,12,namesilo,,,
 22b5a8c7-1bb5-4e44-86b5-ad199499a188,getthere.diy,available,5.49,39.99,high,low,9,namesilo,,,
 2cf81180-66a3-4366-814a-23a7c0544107,strain.diy,available,5.49,39.99,medium,low,6,namesilo,,,
 62a336d6-d74b-40a0-a920-dcf32185040c,moderation.diy,available,5.49,39.99,high,low,10,namesilo,,,
-152ab10a-574b-4157-b482-a9408feb79cb,cafe.diy,premium,875,,high,low,4,name.com,,,
+152ab10a-574b-4157-b482-a9408feb79cb,cafe.diy,premium,1107,1107,medium,low,4,namesilo,,,19/09/2026 13:35
 506c8535-149d-4b2a-a90e-6a58de8e8126,surfer.diy,available,39.99,,high,low,6,name.com,,,
 aeafbb28-3b48-4d68-8054-e9dd719e35d8,boxer.diy,premium,455,650,medium,low,5,namecheap,,,19/09/2026 03:25
 0560b71f-7b4f-433d-9c9d-53fb161583f6,buirdly.diy,available,4.98,51.98,low,low,7,namecheap,,,09/08/2026 08:07
@@ -424,7 +424,7 @@ c070ffb2-76e2-45d0-9673-405a0abe7a1f,anywhere.diy,premium,437.5,,high,low,8,name
 d27cd551-ba87-48ea-9855-47ec35ba24dd,spirit.diy,premium,437.5,,high,low,6,name.com,,,
 27bb2481-9f19-4a38-a119-4f968c25cec1,affine.diy,available,4.98,51.98,low,low,6,namecheap,,,
 6b64c772-b27f-40c8-a881-67c29b992911,non.diy,premium,875,,high,low,3,name.com,,,
-1d2d2a6c-fc3d-4d31-915b-d442f6340294,Californiakilowatt.diy,available,5.49,39.99,high,low,19,namesilo,,,
+1d2d2a6c-fc3d-4d31-915b-d442f6340294,californiakilowatt.diy,available,5.49,39.99,high,low,19,namesilo,,,
 ac8996bd-f32a-400d-b79f-fb130a0f8f9d,abeyant.diy,available,4.98,51.98,low,low,7,namecheap,,,
 a4652d35-7b55-4e31-bd19-8fdc7acff7e9,acarpelous.diy,available,4.98,51.98,low,low,10,namecheap,,,
 cca95f8b-ed0d-46f5-a792-fd60685519f8,heads.diy,premium,87.5,,high,low,5,name.com,,,
@@ -451,9 +451,9 @@ eaa20f90-3903-4284-b14f-be1b881fb4d3,asking.diy,available,5.49,39.99,high,low,6,
 78b9d133-2b6b-47f0-80c7-5fdaf85197e4,anonymous.diy,available,5.49,39.99,medium,low,9,namesilo,,,
 252bf803-58b4-44a7-84ad-cddf240f8f18,abdicable.diy,available,4.98,51.98,low,low,9,namecheap,,,
 d809ec7a-6769-4746-bc38-3bcda82e96a3,acquirable.diy,available,4.98,51.98,low,low,10,namecheap,,,
-74c95cc4-4bfa-4cc0-be4d-ad3375f312e9,turmeric.diy,available,4.98,51.98,medium,low,8,namecheap,,,12/09/2026 11:21
+74c95cc4-4bfa-4cc0-be4d-ad3375f312e9,turmeric.diy,available,5.49,39.99,medium,low,8,namesilo,,,19/09/2026 15:28
 152d89d2-7667-4265-8872-2810bb3c280a,disney.diy,premium,437.5,,high,high,6,name.com,,,
-b5befb0e-949e-4071-a987-d8f9d61eaa84,Iwantmymoneyback.diy,available,5.49,39.99,medium,low,20,namesilo,,,
+b5befb0e-949e-4071-a987-d8f9d61eaa84,iwantmymoneyback.diy,available,5.49,39.99,medium,low,20,namesilo,,,
 567fa06c-2a16-4d84-9ec8-5873d38dafe2,humane.diy,available,5.49,39.99,high,low,6,namesilo,,,
 3c4db180-6af1-48d0-96b7-73fdd34382be,automotive.diy,premium,437.5,,high,low,10,name.com,,,
 002318e9-eda8-44af-8cc5-e6eab15da4f2,evolve.diy,premium,437.5,,high,low,6,name.com,,,
@@ -462,9 +462,9 @@ c57e9736-846f-4810-b72b-4ecbf19018d9,vigor.diy,premium,87.5,,high,low,5,name.com
 8ed288d6-9444-4d48-bcf8-80cbf1f6aebb,canadian.diy,premium,1750,,high,low,8,name.com,,,
 e71c8ce7-1c0f-4c6e-978e-c3660352ffc2,cryout.diy,available,5.49,39.99,high,low,7,namesilo,,,
 bf0699e4-4394-4e67-95c2-8a3da8209d8c,closetohome.diy,available,5.49,39.99,medium,low,13,namesilo,,,
-99e70749-2880-48af-939b-ef99e73a1e46,IhopeImaybeshot.diy,available,39.99,,medium,low,20,name.com,,,
+99e70749-2880-48af-939b-ef99e73a1e46,ihopeimaybeshot.diy,available,39.99,,medium,low,20,name.com,,,
 859f7ae6-e6ea-4cfe-8a72-fd587e249782,justlikethat.diy,available,5.49,39.99,medium,low,14,namesilo,,,
-cde7120c-3161-4a69-a55d-ab0ac0adbb59,Nicole.diy,available,5.49,39.99,high,low,6,namesilo,,,
+cde7120c-3161-4a69-a55d-ab0ac0adbb59,nicole.diy,available,5.49,39.99,high,low,6,namesilo,,,
 d4df0e3b-598a-4401-ac32-4dd14b035901,faded.diy,premium,87.5,,medium,low,5,name.com,,,
 f63645da-9d2e-412f-b043-7d45c780295f,ale.diy,premium,875,,medium,low,3,name.com,,,
 3769a3ef-44e6-4386-b91f-da93ecf630ea,childofthemanse.diy,available,5.49,39.99,medium,low,18,namesilo,,,
@@ -472,11 +472,11 @@ f63645da-9d2e-412f-b043-7d45c780295f,ale.diy,premium,875,,medium,low,3,name.com,
 f8a70e3d-47fe-4db9-b5a2-7b9d5610e66d,enginehouse.diy,available,5.49,39.99,medium,low,12,namesilo,,,
 98965b07-122a-4cdd-8913-8562692d4f7a,lateron.diy,available,4.98,51.98,low,low,8,namecheap,,,
 3e1965c0-aceb-43b7-a427-afb3a6f5936e,solong.diy,available,5.49,39.99,medium,low,7,namesilo,,,
-a9c2814e-17ab-4b3c-a4c5-8bf91008d29f,WordofAllah.diy,available,5.49,39.99,low,low,13,namesilo,,,
+a9c2814e-17ab-4b3c-a4c5-8bf91008d29f,wordofallah.diy,available,5.49,39.99,low,low,13,namesilo,,,
 2dd1c4cc-51db-418a-a9d1-ceb6290a654a,within.diy,available,39.99,,high,low,6,name.com,,,
 c9d01364-2f9e-44b3-94e5-e7ac92038419,ofapiece.diy,available,5.49,39.99,low,low,10,namesilo,,,
 594d3624-5161-43df-8c85-2ff384ff66d5,agrestic.diy,available,4.98,51.98,low,low,8,namecheap,,,
-bbaec62a-f950-4194-ae02-bf5d4d315d63,Laura.diy,premium,875,,high,low,5,name.com,,,
+bbaec62a-f950-4194-ae02-bf5d4d315d63,laura.diy,premium,875,,high,low,5,name.com,,,
 2644f0e2-49d4-4d73-be89-072651f67b78,harrowing.diy,available,4.98,51.98,low,low,9,namecheap,,,
 ad56da48-d03d-4826-b1d7-b1c50d426c56,appointive.diy,available,4.98,51.98,low,low,10,namecheap,,,06/08/2026 07:16
 f8615486-1695-4145-82f5-bc655e0ea8fe,heard.diy,available,5.49,39.99,medium,low,5,namesilo,,,
@@ -492,7 +492,7 @@ ca2f4fac-e4c9-48bf-a905-43121c878700,sweat.diy,available,5.49,39.99,medium,low,5
 6421fc79-ebd8-4f77-a409-ec6bc15faa03,sportsfan.diy,available,5.49,39.99,high,low,10,namesilo,,,
 3ba9089c-2d75-4e0d-84f3-8d8b1cc42e30,asteroidal.diy,available,4.98,51.98,low,low,10,namecheap,,,07/08/2026 09:10
 bd7ebb41-a9a1-40ed-95a1-93f789ea4bfb,eighter.diy,available,4.98,51.98,low,low,7,namecheap,,,
-4d24d3f1-1340-48e9-bd1d-2fe5f48f3c2e,pizza.diy,premium,1820,2600,medium,medium,5,namecheap,,,15/09/2026 01:18
+4d24d3f1-1340-48e9-bd1d-2fe5f48f3c2e,pizza.diy,premium,1820,2600,medium,low,5,namecheap,,,19/09/2026 05:58
 9ce8a089-3cb9-4e67-b5d3-832520624ec5,powerful.diy,available,5.49,39.99,high,low,8,namesilo,,,
 4420f694-a2f7-4477-ad4c-d38168400b00,matt.diy,premium,218.75,,high,high,4,name.com,,,
 d701f31a-dc5e-4ed2-b679-0eaf95bb7085,loop.diy,premium,437.5,,high,high,4,name.com,,,
@@ -517,8 +517,8 @@ caec17bd-e755-48a6-bc62-a8a0b9d88c8a,increased.diy,available,5.49,39.99,high,low
 7d1b0eed-abf1-4531-8d4d-2bb11db3fd38,diminutive.diy,available,4.98,51.98,low,low,10,namecheap,,,08/08/2026 14:10
 a8421ac1-19a1-4297-8927-404ba122e172,commercially.diy,available,39.99,,medium,low,12,name.com,,,
 a615facf-4cc8-4b3d-87f4-79985475a99f,skill.diy,premium,65,130,high,medium,5,namecheap,,,
-049dd5dc-fb0e-4ed8-87ea-4360550a7201,focus.diy,premium,455,650,medium,medium,5,namecheap,,,13/09/2026 03:24
-3c34dec7-e030-41d7-9fbf-27e9245fe7d7,line.diy,premium,910,1300,medium,medium,4,namecheap,,,12/09/2026 03:42
+049dd5dc-fb0e-4ed8-87ea-4360550a7201,focus.diy,premium,640,640,medium,low,5,namesilo,,,19/09/2026 06:53
+3c34dec7-e030-41d7-9fbf-27e9245fe7d7,line.diy,premium,1107,1107,medium,low,4,namesilo,,,19/09/2026 05:36
 5efe84ad-a28f-461d-beeb-0bdf3c72dfb9,ankledeep.diy,available,4.98,51.98,low,low,10,namecheap,,,
 6986d1fb-1f8b-4e8e-adf9-0bf282c0bbb7,dye.diy,premium,875,,medium,low,3,name.com,,,
 2abbb3d8-1e60-46ae-93dc-7708d04ec357,exhale.diy,available,5.49,39.99,high,low,6,namesilo,,,
@@ -564,15 +564,15 @@ a0b9ab72-8116-405f-aecf-17801d9b1e0a,decade.diy,available,5.49,39.99,high,low,6,
 5eee2024-ca3c-449d-b684-4a8b30b2319c,holiday.diy,premium,437.5,,high,low,7,name.com,,,
 d2e74b22-983d-43ec-9713-843b2b1fea34,analyzable.diy,available,4.98,51.98,low,low,10,namecheap,,,
 bd6c8fc9-e9f3-4c57-b43b-3b324c494cd8,northern.diy,available,5.49,39.99,high,low,8,namesilo,,,
-a87e0a65-e8db-4ec2-a1d3-c6312b80c5a1,Ibegyourpardon.diy,available,5.49,39.99,medium,low,17,namesilo,,,
+a87e0a65-e8db-4ec2-a1d3-c6312b80c5a1,ibegyourpardon.diy,available,5.49,39.99,medium,low,17,namesilo,,,
 2ff3edf6-c653-4d71-8076-ed58f31761d1,pandabear.diy,available,5.49,39.99,high,low,10,namesilo,,,
 8f64b835-095c-48ea-9538-b76f70e54122,blonde.diy,available,5.49,39.99,high,low,6,namesilo,,,
 b83586ac-bd33-4d69-b274-0b6a71abae56,candidate.diy,available,5.49,39.99,high,low,9,namesilo,,,
 d876a2cc-ee7d-4634-8b3c-bd88418b5b3e,cherryblossom.diy,available,5.49,39.99,high,low,14,namesilo,,,
 9d58f8a4-2329-49fb-a917-63f22e3a68a1,heavy.diy,premium,87.5,,high,low,5,name.com,,,
-fca621a7-1ff2-4da9-96cb-8fd76dc520c4,Philippines.diy,available,,,low,low,11,,,,
+fca621a7-1ff2-4da9-96cb-8fd76dc520c4,philippines.diy,available,,,low,low,11,,,,
 0c44ade6-64e9-46de-83ad-a694c9a57d3d,inthethickofit.diy,available,5.49,39.99,medium,low,18,namesilo,,,
-6e05c2c0-0813-4966-8c0f-dd9e8c10fef3,IsaidwhatIsaid.diy,available,5.49,39.99,medium,low,18,namesilo,,,
+6e05c2c0-0813-4966-8c0f-dd9e8c10fef3,isaidwhatisaid.diy,available,5.49,39.99,medium,low,18,namesilo,,,
 32cac41d-9b96-4351-be7f-f5a0703da96d,atatime.diy,available,5.49,39.99,medium,low,9,namesilo,,,
 a3bd97af-0b3a-4eef-81b0-19fa324a74f2,futile.diy,available,5.49,39.99,medium,low,6,namesilo,,,
 8ba6779c-c96c-4919-a657-7dd4782a7f5b,clear.diy,premium,455,650,high,medium,5,namecheap,,,
@@ -605,19 +605,19 @@ cdb30f2b-b7e2-4551-962b-4d2f0381648a,stark.diy,available,5.49,39.99,high,medium,
 5b727590-2e95-446e-b1c7-2174c6b78af6,acrobatic.diy,available,4.98,51.98,low,low,9,namecheap,,,
 44e54d89-117f-4a1d-9557-e8404fc6ad32,reception.diy,available,5.49,39.99,high,low,9,namesilo,,,
 0b2e836d-d6cc-40b2-a326-bd46bcf32e66,among.diy,premium,87.5,,medium,low,5,name.com,,,
-76608ca9-b0f2-4e2e-8046-6fa3980838cf,seventeen.diy,premium,455,650,medium,medium,9,namecheap,,,12/09/2026 03:36
+76608ca9-b0f2-4e2e-8046-6fa3980838cf,seventeen.diy,premium,640,640,medium,low,9,namesilo,,,19/09/2026 06:27
 cb138626-8154-4302-b836-4f9a60a37822,roller.diy,available,39.99,,high,low,6,name.com,,,
 7c80b7b2-19fe-41f7-9773-9d48d9cee6d5,dorightby.diy,available,5.49,39.99,high,low,11,namesilo,,,
 58778c9b-da0e-4295-9e2c-88280655d643,basket.diy,premium,437.5,,high,low,6,name.com,,,
 7d6db60b-5780-42bc-8a73-af2fcce81fed,history.diy,premium,437.5,,high,low,7,name.com,,,
-54963e46-9277-481a-8ff0-04802fdbe905,SriLanka.diy,available,,,low,low,9,,,,
+54963e46-9277-481a-8ff0-04802fdbe905,srilanka.diy,available,,,low,low,9,,,,
 8397062e-4da2-4300-8cc4-03d8071ac227,courtyard.diy,premium,437.5,,high,low,9,name.com,,,
 1a046611-afb3-4cf9-8f5c-fbb0852a6585,nowthat.diy,available,5.49,39.99,low,low,8,namesilo,,,
 1dfe460f-995c-4c0a-a94d-8fc89135dd7f,forth.diy,premium,87.5,,high,low,5,name.com,,,
 9b38bade-eace-475f-b596-32de1c82845d,vantagepoint.diy,available,5.49,39.99,high,low,13,namesilo,,,
 e743408d-e634-4382-bb91-1138c2d6f85d,xxviii.diy,available,4.98,51.98,low,low,6,namecheap,,,
 e5ef2c05-80dc-4fda-9311-97611e3a9cb5,thanksalot.diy,available,5.49,39.99,medium,low,12,namesilo,,,
-5f69fcf8-5b28-4dbb-b1a6-3ad3a3c6e87a,WestEuropean.diy,available,5.49,39.99,low,low,13,namesilo,,,
+5f69fcf8-5b28-4dbb-b1a6-3ad3a3c6e87a,westeuropean.diy,available,5.49,39.99,low,low,13,namesilo,,,
 47a0913f-9df4-4a1b-8ac4-848aa8d0c54a,childlabor.diy,available,5.49,39.99,medium,low,11,namesilo,,,
 28a16f3c-cf4c-4484-b776-6f606a738cb8,howsayyou.diy,available,5.49,39.99,medium,low,11,namesilo,,,
 2aff0e8e-346b-4335-82e2-38dc4cd22d93,accumbent.diy,available,4.98,51.98,low,low,9,namecheap,,,
@@ -657,14 +657,14 @@ f2ae2e3a-a532-4374-9fae-5e86f7e6d718,algoid.diy,available,4.98,51.98,low,low,6,n
 321ebf74-e2a2-4464-ac78-cb7b369a3d37,chop.diy,premium,218.75,,medium,low,4,name.com,,,
 4680c94c-62ee-4119-8671-f1fba7b18beb,ass.diy,premium,875,1250,low,low,3,name.com,,,09/08/2026 12:05
 8c990b09-d354-4c92-8cec-e0e5fe0e4f77,later.diy,premium,91,130,high,low,5,namecheap,,,
-f6841573-15cb-431b-bbd9-7cb9984eba2d,Bflat.diy,available,5.49,39.99,medium,low,6,namesilo,,,
+f6841573-15cb-431b-bbd9-7cb9984eba2d,bflat.diy,available,5.49,39.99,medium,low,6,namesilo,,,
 fcfcd0ae-5a2f-4ffe-9ae4-ee283bd28040,purple.diy,premium,875,,medium,medium,6,name.com,,,
 8637cb08-eebc-4fa9-8160-d408764e024b,childmolestation.diy,available,5.49,39.99,medium,low,17,namesilo,,,
 6d7c309d-3b7c-45e0-a059-460abb52a8bf,accurate.diy,available,5.49,39.99,high,low,8,namesilo,,,
 d61cad02-4ee5-4acf-acdc-b6b23aa83118,mandatory.diy,premium,455,650,high,low,9,namecheap,,,
 2748f1fa-6179-4257-bd64-6fa55f085304,commonkiwi.diy,available,39.99,,medium,low,11,name.com,,,
-0dcd3828-d0ef-4a0c-89d3-a0a93c16de56,investing.diy,premium,1750,,high,low,9,name.com,,,
-58979e3b-67d1-4fdf-80ff-49a98031c2f8,network.diy,premium,437.5,,high,medium,7,name.com,,,
+0dcd3828-d0ef-4a0c-89d3-a0a93c16de56,investing.diy,premium,2660,2660,medium,low,9,namesilo,,,19/09/2026 07:46
+58979e3b-67d1-4fdf-80ff-49a98031c2f8,network.diy,premium,640,640,low,low,7,namesilo,,,19/09/2026 04:36
 c3f7bb46-4592-48b6-899a-194c29e4287d,coach.diy,premium,437.5,,high,low,5,name.com,,,
 712d6e30-8e64-4517-92f3-1c49d83de892,manualwork.diy,available,5.49,39.99,medium,low,11,namesilo,,,
 f38ed0e6-97d9-4d3c-87d6-f9b06107ee64,concertroom.diy,available,5.49,39.99,medium,low,12,namesilo,,,
@@ -672,7 +672,7 @@ f38ed0e6-97d9-4d3c-87d6-f9b06107ee64,concertroom.diy,available,5.49,39.99,medium
 f99c3ca9-887e-436b-9b06-6780985f4dd4,economically.diy,available,5.49,39.99,medium,low,12,namesilo,,,
 a601543b-a2f3-4adc-954a-82f719e0969a,snore.diy,premium,87.5,,high,low,5,name.com,,,
 86c8b833-8162-4340-b17e-a4ddf3e48a1c,theabsurd.diy,available,4.98,51.98,low,low,10,namecheap,,,
-2dc4b2af-461f-4bba-934e-43b79f6c8910,Zulutime.diy,available,39.99,,low,low,9,name.com,,,
+2dc4b2af-461f-4bba-934e-43b79f6c8910,zulutime.diy,available,39.99,,low,low,9,name.com,,,
 01d241a4-86d7-4518-aed0-f4be65987439,youall.diy,available,5.49,39.99,medium,low,7,namesilo,,,
 63e2dbcc-fd0a-42d1-a610-2e1ce835dbb2,spellingword.diy,available,5.49,39.99,medium,low,13,namesilo,,,
 ccf6cfb4-29b4-4094-b734-24cf8617d4ed,speculation.diy,available,39.99,,low,low,11,name.com,,,
@@ -721,7 +721,7 @@ e3f86646-7909-4a62-b45a-7e36138e53b9,train.diy,premium,87.5,,high,low,5,name.com
 d0652a27-31de-44e1-ab00-8e1b62517088,anaerobic.diy,available,4.98,51.98,low,low,9,namecheap,,,
 b275e93a-6dba-4985-b4e8-e7146efb9050,autotelic.diy,available,4.98,51.98,low,low,9,namecheap,,,07/08/2026 21:08
 f2cdf056-216d-4e09-a0f4-cbec77412fb5,copewith.diy,available,5.49,39.99,high,low,9,namesilo,,,
-bcb10ef1-cbc1-4dc7-88de-11fddfbbdea9,HIVvirus.diy,available,5.49,39.99,medium,low,9,namesilo,,,
+bcb10ef1-cbc1-4dc7-88de-11fddfbbdea9,hivvirus.diy,available,5.49,39.99,medium,low,9,namesilo,,,
 6f2f8a20-a884-400e-a9fa-c0a7f03107c1,nearer.diy,available,5.49,39.99,medium,low,6,namesilo,,,
 6f10ea7d-6508-49ab-8066-6e0860125a65,alpha.diy,premium,1820,2600,high,medium,5,namecheap,,,
 1644fe51-20a4-4d61-b04c-39d2b111f39f,worried.diy,available,39.99,59.99,high,low,7,name.com,,,
@@ -776,7 +776,7 @@ df73fabf-654a-47a5-ac76-d494c6a42cfb,joined.diy,available,5.49,39.99,high,low,6,
 4df9e9e2-62bf-4a30-97bf-cfca68e2a88d,touchon.diy,available,5.49,39.99,low,low,8,namesilo,,,17/09/2026 14:12
 6efdd8a8-a0b6-4a2d-8100-e0302d4a45f9,lxii.diy,available,4.98,51.98,low,low,4,namecheap,,,
 ef38b2ce-be03-4b40-8d1e-88d467d9343a,yellow.diy,premium,437.5,,high,low,6,name.com,,,
-48168576-e0a6-4690-8169-7ceed8f02b68,advised.diy,available,4.98,51.98,low,low,7,namecheap,,,14/09/2026 02:01
+48168576-e0a6-4690-8169-7ceed8f02b68,advised.diy,available,5.49,39.99,low,low,7,namesilo,,,19/09/2026 08:43
 2c18c6e5-fc0b-42be-bfd3-bbc165b8df9f,parliamentary.diy,available,5.49,39.99,medium,low,13,namesilo,,,
 406fc89d-be1a-433c-b32d-b34ba19a95d7,sanative.diy,available,4.98,51.98,low,low,8,namecheap,,,
 1a222179-f460-4d3d-849b-b2f6420359a9,gopublic.diy,available,5.49,39.99,medium,low,9,namesilo,,,
@@ -785,7 +785,7 @@ c92771c6-ab4b-4e4e-b535-7768ca20952f,oflate.diy,available,39.99,,medium,low,7,na
 2c307640-2a40-4fce-bff6-193553220f83,anaclinal.diy,available,4.98,51.98,low,low,9,namecheap,,,
 9d64454c-3d75-417f-828a-e402bf2d3597,reproving.diy,available,4.98,51.98,low,low,9,namecheap,,,
 b94dc764-1127-4249-9464-a6a43abd111b,mothafucka.diy,available,5.49,39.99,medium,low,10,namesilo,,,
-dc3d03d6-fd1a-4e40-9bd1-5b43d6506b83,virtual.diy,premium,455,650,medium,low,7,namecheap,,,14/09/2026 02:23
+dc3d03d6-fd1a-4e40-9bd1-5b43d6506b83,virtual.diy,premium,640,640,medium,low,7,namesilo,,,19/09/2026 09:02
 b173cb68-cbf5-4756-b614-517ae2364edd,reasonable.diy,available,5.49,39.99,high,low,10,namesilo,,,
 c0a53b6b-ba19-4c58-908c-f10e4876c482,ada.diy,premium,875,,medium,medium,3,name.com,,,
 24d30043-05e1-4394-80d1-470aaa1f1d04,reliable.diy,available,5.49,39.99,high,low,8,namesilo,,,
@@ -793,7 +793,7 @@ c0a53b6b-ba19-4c58-908c-f10e4876c482,ada.diy,premium,875,,medium,medium,3,name.c
 97959cc2-5498-464d-8237-b2aef9213020,abient.diy,available,4.98,51.98,low,low,6,namecheap,,,
 143fd54e-3a71-46b5-ad98-d76a7bac10c0,toothwork.diy,available,39.99,,low,low,9,name.com,,,
 3a6d287e-a9d2-478e-854f-47fa7d9417fb,informally.diy,available,5.49,39.99,medium,low,10,namesilo,,,
-3cbc30d9-c60c-49f2-8f80-3fe8b503f335,simple.diy,premium,1820,2600,high,medium,6,namecheap,,,
+3cbc30d9-c60c-49f2-8f80-3fe8b503f335,simple.diy,premium,1820,2600,medium,low,6,namecheap,,,19/09/2026 05:32
 94be64ea-2540-442a-a672-e02318843e6b,listenin.diy,available,5.49,39.99,medium,low,9,namesilo,,,
 ee72de0c-23fa-4736-8f87-6baa16ffa320,appearance.diy,available,4.98,51.98,medium,low,10,namecheap,,,08/09/2026 12:55
 dc2f61d4-e6ed-4576-99ad-33e4cf8e9e1e,terrific.diy,available,5.49,39.99,high,low,8,namesilo,,,
@@ -807,11 +807,11 @@ ff8ce2ab-c19a-4097-9a11-c2a8d19ef11a,arrayed.diy,available,4.98,51.98,low,low,7,
 0696042e-532b-42c1-9e2c-67dec4ad8a5c,arsenious.diy,available,4.98,51.98,low,low,9,namecheap,,,06/08/2026 22:24
 8196c7ab-23b4-4451-a5d2-b9ebcb2fa670,ham.diy,premium,437.5,,medium,low,3,name.com,,,
 5e2db015-4fd5-4eb5-a37c-6ce6e45f79bb,arbitral.diy,available,4.98,51.98,low,low,8,namecheap,,,06/08/2026 12:48
-002fb47c-4d2f-453a-b46d-4a5524f2b27c,QueenElizabeth.diy,available,5.49,39.99,high,low,15,namesilo,,,
+002fb47c-4d2f-453a-b46d-4a5524f2b27c,queenelizabeth.diy,available,5.49,39.99,high,low,15,namesilo,,,
 ab5fbe1f-590b-40b3-a801-d7732b49a535,anaemia.diy,available,5.49,39.99,medium,low,7,namesilo,,,
 689628d6-6b35-479a-bd2e-3bc95541e912,ambient.diy,available,,,high,low,7,,,,
 cc8397db-0fda-4ecc-8abb-77644e56e670,linear.diy,premium,437.5,625,low,low,6,name.com,,,
-9c0ff0f7-0779-41e1-90a4-2f501ba73d88,windows.diy,premium,455,650,medium,medium,7,namecheap,,,15/09/2026 06:19
+9c0ff0f7-0779-41e1-90a4-2f501ba73d88,windows.diy,premium,640,640,medium,low,7,namesilo,,,19/09/2026 04:22
 616d3393-0626-417f-9ffe-00ad5ae62b20,amuse.diy,premium,87.5,,high,low,5,name.com,,,
 e951352e-e525-40a5-9945-12dbbbcd1287,pot.diy,premium,875,,high,low,3,name.com,,,
 bee9b834-6057-43de-9bd2-bf5efcab7526,ruby.diy,premium,218.75,,high,low,4,name.com,,,
@@ -868,7 +868,7 @@ fc017631-917b-4e36-ab1e-0257b49ed0e7,completed.diy,available,5.49,39.99,high,low
 a73348d4-17c8-496d-9fe5-26a0dd013e2d,let.diy,premium,875,,high,low,3,name.com,,,
 390866a0-2321-4b20-a032-88aa194a22d0,outofaction.diy,available,39.99,,low,low,13,name.com,,,
 2031e12f-9c4e-4f4c-8a59-884bcc7c7b75,devise.diy,available,5.49,39.99,high,low,6,namesilo,,,
-3d96730c-73c0-4850-bba9-1c49a9eee956,cup.diy,premium,910,1300,medium,low,3,namecheap,,,08/09/2026 16:35
+3d96730c-73c0-4850-bba9-1c49a9eee956,cup.diy,premium,1107,1107,medium,low,3,namesilo,,,19/09/2026 14:42
 ea887f4b-a191-4ba2-9468-176622233e06,notes.diy,premium,87.5,,medium,low,5,name.com,,,
 e76d303e-0212-4bce-b472-9a4305bda6be,hashtag.diy,available,5.49,39.99,high,low,7,namesilo,,,
 8bf4044c-41de-4358-84f8-2566db43833a,jamesdean.diy,available,5.49,39.99,high,low,10,namesilo,,,
@@ -904,9 +904,9 @@ c09f8629-4d0f-4b0c-a1a8-ebb002a1de92,anhydrous.diy,available,4.98,51.98,low,low,
 f93af7db-ef3d-4cc4-9d71-ca20f571c9f3,committing.diy,available,5.49,39.99,medium,low,10,namesilo,,,
 a9f58902-fc47-4aac-81a8-f1a1430dee17,lxxxvi.diy,available,4.98,51.98,low,low,6,namecheap,,,
 04c7f84a-37f5-43d3-aac5-73b3ca29beee,consider.diy,available,5.49,39.99,high,low,8,namesilo,,,
-1b6ade87-a10e-493c-822c-eb7be562f2e0,Your.diy,premium,218.75,,medium,medium,4,name.com,,,
+1b6ade87-a10e-493c-822c-eb7be562f2e0,your.diy,premium,218.75,,medium,medium,4,name.com,,,
 0e2bab8f-ae94-4a3e-9333-51663e38b533,lowkeyed.diy,available,5.49,39.99,medium,low,9,namesilo,,,
-c007d53d-9681-4791-aea2-4d32b120426a,think.diy,premium,455,650,medium,medium,5,namecheap,,,15/09/2026 03:47
+c007d53d-9681-4791-aea2-4d32b120426a,think.diy,premium,640,640,medium,low,5,namesilo,,,19/09/2026 06:38
 1fb5e433-feef-4dd8-86e0-85258212191f,askant.diy,available,4.98,51.98,low,low,6,namecheap,,,07/08/2026 03:05
 05c0a9cb-0716-4b76-8935-940f76ae964c,anesthetic.diy,available,4.98,51.98,low,low,10,namecheap,,,
 25fcefe0-8eba-4b5f-9938-25a0a24cd7b0,exclamationmark.diy,available,39.99,,medium,low,16,name.com,,,
@@ -934,7 +934,7 @@ d2528a46-68ba-4e6c-99bd-d776374ff466,fiftyfive.diy,available,4.98,51.98,low,low,
 3431ae1e-aa7e-4b5a-826a-5318f436b1a3,desk.diy,premium,1820,2600,medium,low,4,namecheap,,,08/09/2026 08:30
 93a2c14f-66b0-44d9-80c1-a92a4bc09229,bavarian.diy,available,4.98,51.98,low,low,8,namecheap,,,09/08/2026 02:00
 c95e3d9b-2a44-49be-b6df-9a547b0a5197,then.diy,premium,218.75,,high,low,4,name.com,,,
-a66641e5-6a76-41f1-a7d4-42c001fac042,Islands.diy,available,5.49,39.99,high,low,7,namesilo,,,
+a66641e5-6a76-41f1-a7d4-42c001fac042,islands.diy,available,5.49,39.99,high,low,7,namesilo,,,
 948fc9b0-fb05-4c5f-b7d7-41406488eef6,merit.diy,premium,437.5,,high,low,5,name.com,,,
 0f58ed0c-035d-4d7b-8791-685b47841034,eat.diy,premium,875,,high,low,3,name.com,,,
 de36fe38-e79f-41da-a991-24ee699e23a3,roi.diy,premium,875,,high,low,3,name.com,,,
@@ -965,7 +965,7 @@ c10dfbc5-62a2-4459-9268-ae6859a3d510,nettlesome.diy,available,4.98,51.98,low,low
 03efef88-3b46-419b-9e96-19f27b2a2b0a,amyloidal.diy,available,4.98,51.98,low,low,9,namecheap,,,
 67924ae8-6eb9-4b4d-88ac-1a09aef373c4,corrupted.diy,available,5.49,39.99,medium,low,9,namesilo,,,
 d38533e9-7898-419d-b98f-09615dfd6495,bee.diy,premium,875,,high,medium,3,name.com,,,
-07e8c091-88c7-44ca-ba0b-b30febf43ca4,weight.diy,available,4.98,51.98,low,low,6,namecheap,,,15/09/2026 06:16
+07e8c091-88c7-44ca-ba0b-b30febf43ca4,weight.diy,available,4.98,51.98,low,low,6,namecheap,,,19/09/2026 19:07
 118932c9-d25d-4f44-b4f2-2f46604c5873,saved.diy,premium,87.5,,high,low,5,name.com,,,
 6bf2172d-1641-45e1-8735-c506c5bc35dd,idiotic.diy,available,5.49,39.99,medium,low,7,namesilo,,,
 abeccd8f-0b31-4677-9f47-ec1b508915a3,rats.diy,premium,218.75,,medium,low,4,name.com,,,
@@ -977,12 +977,12 @@ b4ba821a-67d1-4b84-8df7-ae32e2ab38d9,wealth.diy,premium,437.5,,high,low,6,name.c
 026fc004-c21e-4466-826b-24fc033e24f5,encounter.diy,available,5.49,39.99,high,low,9,namesilo,,,
 0e9f2861-b129-4ffb-a393-588fcb110dee,involved.diy,available,5.49,39.99,high,low,8,namesilo,,,
 9d487d26-48da-4c00-8352-3453bf748963,tails.diy,premium,87.5,,high,low,5,name.com,,,
-cf91ef3c-7b77-459f-a9ea-fd7c26085f23,PeaceCorps.diy,available,5.49,39.99,low,low,11,namesilo,,,
+cf91ef3c-7b77-459f-a9ea-fd7c26085f23,peacecorps.diy,available,5.49,39.99,low,low,11,namesilo,,,
 11d603c8-edd3-4017-9641-25f6c24fe48b,liv.diy,premium,437.5,625,low,low,3,name.com,,,
 77f743dc-aeb2-428f-a490-059b5f566a3a,stealaway.diy,available,5.49,39.99,low,low,10,namesilo,,,
 7abd4dad-1b18-44d0-8c52-742ff63c14a3,actinic.diy,available,4.98,51.98,low,low,7,namecheap,,,
 06e056f5-534c-4141-b528-305276c292ed,axle.diy,available,,,high,low,4,,,,
-02048591-f1b1-4a13-996c-7d00eafde1f5,Crayola.diy,premium,437.5,,high,medium,7,name.com,,,
+02048591-f1b1-4a13-996c-7d00eafde1f5,crayola.diy,premium,437.5,,high,medium,7,name.com,,,
 0bf7c724-858b-4d86-a307-48bc62d3c794,two.diy,premium,910,1300,high,low,3,namecheap,,,
 b8bbe39a-263c-45b7-8573-110feec17b6b,imagine.diy,available,,,high,low,7,,,,
 6a2eb0b1-5b27-41cb-9262-ae5d55fb0af2,addlepated.diy,available,4.98,51.98,low,low,10,namecheap,,,
