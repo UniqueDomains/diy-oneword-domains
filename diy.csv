@@ -31,6 +31,7 @@ ad7fd80a-a5b4-4030-bd8f-a96f673c3764,abrocome.diy,available,5.49,39.99,medium,lo
 c433774c-b415-4583-b748-33d3287ad041,benzyl.diy,available,4.98,51.98,high,low,6,namecheap,,,23/09/2026 09:03
 09e6d0bb-3f78-44d2-9c52-0587fa0ae309,senile.diy,available,4.98,51.98,medium,low,6,namecheap,,,14/08/2026 14:36
 c3251678-16d7-4dd6-832d-ddad5176bf5e,catclaw.diy,available,4.98,51.98,medium,low,7,namecheap,,,23/09/2026 23:59
+7d040d66-35e1-472e-a8d6-7b2bff6574c5,objectionable.diy,available,4.35,31.25,medium,low,13,spaceship,,,03/10/2026 02:45
 ca9329d4-5f4d-41c4-9df1-7bd6d32aa73f,angled.diy,available,4.98,51.98,medium,low,6,namecheap,,,
 d75821fd-657e-4bda-aa9e-f26608b687cc,nauseating.diy,available,4.98,51.98,medium,low,10,namecheap,,,24/08/2026 08:23
 f316f8cd-b764-48b4-beb9-08ac0b00a581,solid.diy,premium,91,130,high,medium,5,namecheap,,,27/09/2026 17:59
@@ -51,11 +52,14 @@ a12937fa-481a-4740-b06a-6ccb3c3f9aa2,crowded.diy,available,4.98,51.98,high,low,7
 387b3799-ce19-4b76-8465-c71d55f7a60d,classified.diy,available,4.98,51.98,high,low,10,namecheap,,,19/09/2026 14:44
 c3c216cd-ccd6-49b2-831c-1dc290e25ef9,ostracize.diy,available,5.49,39.99,medium,low,9,namesilo,,,24/09/2026 01:58
 53f87510-78bb-479f-a48a-7e49ff053866,cultivators.diy,available,4.63,31.41,medium,low,11,porkbun,,,30/09/2026 00:43
+9a9e3bbc-5a91-46aa-819f-392b234415ca,unqualified.diy,available,5.49,39.99,medium,low,11,namesilo,,,03/10/2026 03:14
 d7aac7ce-b463-41b3-b98a-ad8bc2635a10,bowen.diy,available,5.49,39.99,medium,low,5,namesilo,,,25/09/2026 12:42
 42d42210-92b8-4d33-9449-b5d6f1a99a7e,soured.diy,available,4.98,51.98,high,medium,6,namecheap,,,10/09/2026 14:46
 f3c725d3-da29-4d97-ae73-24a1c858c260,parentally.diy,available,4.98,51.98,medium,low,10,namecheap,,,15/09/2026 18:57
 f8b63df0-e47c-4919-b361-4b5ae28e722b,fourteen.diy,available,5.49,39.99,high,low,8,namesilo,,,21/09/2026 11:38
 2c9f0144-cbcc-44d9-8909-2a98ed4fbf62,drove.diy,premium,116,116,high,low,5,namesilo,,,25/09/2026 22:29
+ace32633-b917-40c8-b284-ee1073bbc548,tasso.diy,available,5.49,39.99,medium,low,5,namesilo,,,02/10/2026 16:55
+98f92014-29c3-4331-afa1-05253e82f353,snohomish.diy,available,5.49,39.99,high,low,9,namesilo,,,02/10/2026 08:12
 8d88cd4f-edfd-4a9a-a6c6-64cf1480bd60,trevor.diy,available,5.49,39.99,high,low,6,namesilo,,,26/09/2026 03:30
 79a7042a-7770-43c2-a2ae-83b4eef44d17,reform.diy,available,4.98,51.98,medium,low,6,namecheap,,,01/10/2026 14:37
 8873882c-1d80-4ee9-aff9-e6a7d71ad59e,prelate.diy,available,5.49,39.99,medium,low,7,namesilo,,,20/09/2026 02:36
@@ -65,6 +69,7 @@ a4105c1b-eb2a-4364-8abe-8ec2e8bec7e5,develop.diy,premium,640,640,high,low,7,name
 85bbd108-9916-4e6e-bb2c-834968d21bf5,neurological.diy,available,4.98,51.98,medium,low,12,namecheap,,,29/09/2026 16:30
 cf03c070-fd24-49f0-b885-202cb77a3c2d,vatic.diy,premium,87.5,125,low,low,5,name.com,,,14/08/2026 13:52
 b3c29704-f449-49da-bc45-d98e55209776,bolshevik.diy,available,4.98,51.98,high,low,9,namecheap,,,10/08/2026 17:50
+960e9bc1-3afa-4427-a414-25e9412d9242,mart.diy,premium,302.5,302.5,high,low,4,namesilo,,,03/10/2026 01:33
 ffb57310-e76f-4ef2-bbbc-78ecf1cef60b,sear.diy,premium,218.75,312.5,medium,low,4,name.com,,,14/08/2026 19:05
 645e3a1a-9bd5-46e0-9c47-641f191df549,olaf.diy,premium,181.33,258.95,medium,low,4,spaceship,,,28/09/2026 07:48
 1fc9ce6c-53dc-4cc2-9e62-bad35ec5c2b9,discontinue.diy,available,4.35,31.25,high,low,11,spaceship,,,01/10/2026 05:15
@@ -88,9 +93,10 @@ ad1a11d4-c675-45e8-827e-4dbb91411236,digitate.diy,available,4.98,51.98,medium,lo
 056b4ed1-a83e-4164-9b32-7c398fd280a8,targeted.diy,available,4.35,31.25,medium,low,8,spaceship,,,28/09/2026 21:29
 f380b04b-3de6-47b1-a328-a3adf1ee1d3d,boil.diy,premium,181.33,258.95,medium,low,4,spaceship,,,29/09/2026 00:13
 ee90818d-50d7-4298-84be-20b485c6eb1b,browns.diy,premium,362.45,517.7,medium,low,6,spaceship,,,30/09/2026 00:26
-0b7bd18a-749d-429f-ab1c-9c0fe8153a69,hipaa.diy,available,5.49,39.99,medium,low,5,namesilo,,,
+0b7bd18a-749d-429f-ab1c-9c0fe8153a69,hipaa.diy,available,4.98,51.98,medium,low,5,namecheap,,,02/10/2026 09:25
 251d520c-50e7-4ed3-8ce6-40d09c5c07e1,tense.diy,premium,91,130,high,low,5,namecheap,,,11/09/2026 11:26
 5112b931-0853-4e2b-84e6-617133aeefea,franco.diy,available,4.35,31.25,high,low,6,spaceship,,,29/09/2026 06:44
+4d0606b7-f5ed-403b-9a0f-fa5f1a6552af,ghulam.diy,available,4.99,32.32,medium,low,6,dynadot,,,02/10/2026 19:09
 6990be6b-7595-48b1-8d25-248a8dc7262a,anthracite.diy,available,4.98,51.98,medium,low,10,namecheap,,,19/09/2026 13:48
 3f6a609b-24eb-4e46-9072-90100aea1f03,boaster.diy,available,4.98,51.98,medium,low,7,namecheap,,,11/08/2026 01:18
 a5fea872-4bf8-472b-bc39-57b37000bcda,creditable.diy,available,4.98,51.98,high,low,10,namecheap,,,13/08/2026 05:54
@@ -109,6 +115,8 @@ a582f33a-9ae5-4401-b727-99aed4039148,embodied.diy,available,4.98,51.98,high,low,
 4619393d-9ece-40ea-87e3-6f733a16b049,jesuit.diy,available,4.98,51.98,high,low,6,namecheap,,,22/08/2026 13:03
 e1122bab-28f2-4993-9775-382994a481cc,toast.diy,premium,110,110,high,low,5,dynadot,,,29/09/2026 21:04
 ebe1fb21-9345-4085-a5a6-0c16c1011369,eaten.diy,premium,87.5,,high,low,5,name.com,,,30/09/2026 22:38
+a1e9eaef-b6e1-49f2-a006-81911ef1fcec,geochemistry.diy,available,4.35,31.25,medium,low,12,spaceship,,,02/10/2026 21:31
+9c90cb92-8011-4024-af03-64bb63fd6e99,ronde.diy,premium,116,116,medium,low,5,namesilo,,,02/10/2026 22:42
 9d8bb2fa-311c-4566-b760-770e1924093a,luckless.diy,available,4.98,51.98,medium,low,8,namecheap,,,24/08/2026 10:59
 cb63c0c0-8a5c-497e-a523-39f4943690c0,coupled.diy,available,4.98,51.98,high,low,7,namecheap,,,12/08/2026 22:15
 705a188f-6c81-440a-a595-b26ca82a77b8,bauhinia.diy,available,5.49,39.99,medium,low,8,namesilo,,,22/09/2026 16:38
@@ -122,8 +130,10 @@ d5d47102-daa0-44fc-b32e-d98713bee71a,lucia.diy,available,5.49,39.99,high,low,5,n
 bf97f74c-f597-4dbd-bf5f-0f2526498eb7,jaggy.diy,premium,87.5,125,medium,low,5,name.com,,,17/08/2026 12:34
 8acc1dbc-6cad-4c39-bea5-a9ef0f05d67b,amblyopia.diy,available,5.49,39.99,medium,low,9,namesilo,,,18/09/2026 17:11
 65dba5a9-99b5-440c-8660-e52511f1f1cf,lumbar.diy,available,4.98,51.98,high,low,6,namecheap,,,24/08/2026 11:06
+ac1dc5bb-ffa1-4629-b3b0-51f27ae4eddd,sio.diy,premium,227.5,325,high,low,3,namecheap,,,02/10/2026 19:13
 c8cdba0a-75f9-4160-807c-68c78ad4d9bb,mobilized.diy,available,4.63,31.41,medium,low,9,porkbun,,,01/10/2026 23:11
 c924ce5c-4093-47d4-8346-e2b44b5eef72,liberty.diy,premium,640,640,high,high,7,namesilo,,,21/09/2026 07:30
+ee2fabb0-f9ad-47f3-a0ad-958c37c59807,fiberglass.diy,available,5.49,39.99,high,low,10,namesilo,,,02/10/2026 15:10
 c5f40227-50d4-434b-8f94-44c45ed054ba,sunstone.diy,available,5.49,39.99,high,low,8,namesilo,,,21/09/2026 09:07
 707243eb-3d8d-4a84-a50b-dbde105175a5,ride.diy,premium,724.7,1035.2,high,low,4,spaceship,,,29/09/2026 00:38
 69c72823-6ee6-40fb-96e1-992b29914b08,barbet.diy,available,5.49,39.99,medium,low,6,namesilo,,,22/09/2026 04:53
@@ -134,14 +144,18 @@ e13a9ed9-e888-4964-bd7c-cb62416cb181,psychiatry.diy,available,4.35,31.25,high,lo
 6f6d636d-4c1e-4a17-b3db-2a6682edf4b5,whiskered.diy,available,4.98,51.98,medium,low,9,namecheap,,,08/08/2026 16:15
 bc367031-3f74-4df6-89ac-6a050227fd81,shoplift.diy,available,4.99,32.32,medium,low,8,dynadot,,,30/09/2026 21:24
 430a4d06-c8af-4f70-89dd-b2bb5c7e8337,dyadic.diy,available,4.98,51.98,medium,low,6,namecheap,,,14/08/2026 21:52
+67343459-8693-4282-a1ea-896aa34c0240,suitor.diy,available,4.63,31.41,high,low,6,porkbun,,,02/10/2026 06:30
 500dca94-74d5-4a07-8bb4-ef1d63015a09,ephesian.diy,available,4.98,51.98,medium,low,8,namecheap,,,17/08/2026 10:24
 8b700b4c-26c6-497a-8c01-5ab2a7859643,practicing.diy,available,4.35,31.25,high,low,10,spaceship,,,01/10/2026 23:50
+efa53596-64f0-4cb6-8049-d87d036d5ff6,mite.diy,premium,181.33,258.95,high,low,4,spaceship,,,02/10/2026 16:08
 c45b2814-5a1e-4796-be6f-c16a4368fe4a,nebulously.diy,available,4.98,51.98,low,low,10,namecheap,,,15/09/2026 16:18
 6e76451c-6238-4648-b619-5382ffe6ad97,cerium.diy,available,4.98,51.98,high,low,6,namecheap,,,14/09/2026 06:07
 39621243-7567-415c-830f-be0e086bef37,selo.diy,available,5.49,39.99,high,low,4,namesilo,,,30/09/2026 15:04
+e3e379b1-9fb1-4194-808e-942141161167,pesticides.diy,available,5.49,39.99,low,low,10,namesilo,,,02/10/2026 12:58
 da834e87-293f-44a6-b865-f61e970eb98a,quentin.diy,available,4.98,51.98,medium,low,7,namecheap,,,27/09/2026 01:36
 effae964-30d7-4c97-8048-d66a4b3298d3,dolly.diy,available,4.63,31.41,high,low,5,porkbun,,,27/09/2026 13:05
 2f9d5483-2030-467c-b487-eeb9b4d6e2bd,seed.diy,premium,362.45,517.7,high,medium,4,spaceship,,,29/09/2026 10:21
+a4bc72c9-9ae0-4f85-9bc4-ea0b6d9df9b8,pce.diy,premium,181.33,258.95,high,low,3,spaceship,,,02/10/2026 23:26
 4b3dbe76-fd8c-4dd7-864b-8aea1dee6c5f,haig.diy,available,30.2,30.2,medium,low,4,cloudflare,,,28/09/2026 12:12
 c874dadb-aa50-47d3-b5f8-a89043cc5286,revolver.diy,premium,362.45,517.7,high,low,8,spaceship,,,28/09/2026 20:20
 1b2afa65-f23c-4971-bba7-1f46073e9493,scoffing.diy,available,4.98,51.98,medium,low,8,namecheap,,,22/08/2026 12:43
@@ -151,13 +165,15 @@ f9663dd0-6aea-42fa-a8e3-e362977dad75,europe.diy,premium,362.45,517.7,high,medium
 fdbafb3c-fd1b-4ed8-865d-056755f002dd,undaunted.diy,available,4.98,51.98,high,low,9,namecheap,,,12/09/2026 07:00
 73a69ffa-5527-4191-9781-826211a86c49,allgood.diy,available,5.49,39.99,high,low,7,namesilo,,,18/09/2026 10:56
 1be9b0c4-c59c-4a53-9ad3-f0bee6746b9d,peeling.diy,available,4.35,31.25,high,low,7,spaceship,,,02/10/2026 04:35
-7b594b56-6cda-46ea-8cd5-cae5a1af5fcc,construction.diy,premium,325,650,high,low,12,namecheap,,,
+7b594b56-6cda-46ea-8cd5-cae5a1af5fcc,construction.diy,premium,325,650,high,low,12,namecheap,,,03/10/2026 00:58
 7a7efc63-831a-41b3-88ec-b921ef03744f,astronium.diy,available,4.98,51.98,medium,low,9,namecheap,,,20/09/2026 18:03
 c83e470f-2959-4aab-ae8e-b41134e0c75e,showy.diy,premium,437.5,625,medium,low,5,name.com,,,18/08/2026 06:20
 a26206c3-62f9-494c-8c4d-e37e9401a0e1,believing.diy,available,4.98,51.98,high,low,9,namecheap,,,23/09/2026 05:15
+8d83dc90-3003-414f-a84c-8b675d9ba4de,swivel.diy,available,4.63,31.41,high,low,6,porkbun,,,03/10/2026 01:47
 478ef409-7ee3-4ba8-b324-e848436b83f1,discreet.diy,available,4.98,51.98,high,low,8,namecheap,,,12/08/2026 08:23
 e271fc51-df40-49e9-9024-8dd151875bdf,legless.diy,available,4.98,51.98,medium,low,7,namecheap,,,22/08/2026 23:13
 42c485c3-6365-4d5f-8cd5-6b41c194024e,bombay.diy,premium,550,550,medium,low,6,dynadot,,,29/09/2026 00:15
+9bc6340b-7054-467d-bb66-e2e9b25bc205,bremerton.diy,available,4.98,51.98,medium,low,9,namecheap,,,02/10/2026 08:13
 3a49ca73-2607-481a-bc2b-b5008ea00dad,cannabis.diy,premium,362.45,517.7,high,medium,8,spaceship,,,29/09/2026 06:36
 a5da6f50-bdd8-416a-ab13-d8ca857c3392,lawn.diy,premium,1107,1107,high,low,4,namesilo,,,30/09/2026 02:21
 de1b444a-2e68-45c4-9f26-9dc28f5e6002,chainlike.diy,available,4.98,51.98,medium,low,9,namecheap,,,11/08/2026 21:34
@@ -189,6 +205,7 @@ ea9fc4eb-2651-49d7-87fc-604f4254dd90,meals.diy,premium,116,116,high,low,5,namesi
 041a12d1-a1ce-4926-838c-90e53f79e6e8,spike.diy,premium,455,650,high,low,5,namecheap,,,19/09/2026 15:31
 a4d7b75d-221d-4a9a-ab50-f171ce385d89,chive.diy,premium,116,116,high,low,5,namesilo,,,18/09/2026 11:28
 ff2deb5b-da60-4650-9b54-e0a0090af445,atheist.diy,available,5.49,39.99,medium,low,7,namesilo,,,22/09/2026 10:58
+267e5545-8f60-4dc1-8c56-583a79129be9,tights.diy,available,4.99,32.32,high,low,6,dynadot,,,02/10/2026 05:36
 5eb1593d-7dfd-442e-8b7d-d207f9c76382,brilliant.diy,premium,640,640,high,low,9,namesilo,,,23/09/2026 02:12
 975c89a2-57a1-4dcc-96c5-a593a9d67af5,arteries.diy,available,4.35,31.25,medium,low,8,spaceship,,,30/09/2026 06:28
 4c1a1db9-6bb0-48b2-88d1-fa8c84c4e6ba,ima.diy,premium,724.7,1035.2,high,low,3,spaceship,,,30/09/2026 19:42
@@ -200,6 +217,8 @@ f19a0b1c-742b-4538-b2ac-03ba3c8a7d7c,propranolol.diy,available,5.49,39.99,high,l
 9a136448-22f1-482c-a0d6-b12c9516131c,dhs.diy,premium,181.33,258.95,medium,low,3,spaceship,,,29/09/2026 09:25
 e3a24fde-151d-4fc9-84b1-fbc727fba5a4,ssa.diy,premium,640,640,high,low,3,namesilo,,,29/09/2026 08:03
 0ac1c226-9491-4381-b6d3-98951b1a1634,trish.diy,available,5.49,39.99,high,low,5,namesilo,,,02/10/2026 00:26
+10bca847-0dda-4c99-90b8-f7ae032ba043,tribunes.diy,available,4.98,51.98,low,low,8,namecheap,,,02/10/2026 14:03
+14b94072-57e2-45da-b944-758e9aec2e76,staining.diy,available,30.2,30.2,high,low,8,cloudflare,,,03/10/2026 02:09
 3d251e83-9e90-41f5-aa40-b7119fce5b1f,nope.diy,premium,181.33,258.95,high,low,4,spaceship,,,01/10/2026 22:27
 432e9e17-8ac2-47e3-a693-dbd67ab683de,attacks.diy,available,4.98,51.98,medium,low,7,namecheap,,,27/09/2026 02:47
 f9c5b25d-2417-4f4d-8eb4-a2dc0e14abe2,expansion.diy,premium,,,high,low,9,,,,28/09/2026 19:05
@@ -210,7 +229,7 @@ ad96bf71-d54b-4d2a-b9fa-99892ecb88c3,bathroom.diy,premium,2660,2660,high,low,8,n
 f55f2c64-acc1-4642-ae47-439279b72c2c,hasten.diy,available,4.98,51.98,medium,low,6,namecheap,,,09/09/2026 19:47
 fe7d66c2-1bdc-4577-8634-252212b792fe,duration.diy,available,30.2,30.2,high,low,8,cloudflare,,,28/09/2026 19:00
 91ff2ab5-3d41-428a-a2c8-a633f38e2748,nagging.diy,available,4.98,51.98,medium,low,7,namecheap,,,03/09/2026 12:41
-1d301a2d-27ec-44c3-a39d-75b362d3949c,oneself.diy,available,5.49,39.99,high,low,7,namesilo,,,
+1d301a2d-27ec-44c3-a39d-75b362d3949c,oneself.diy,available,4.35,31.25,high,low,7,spaceship,,,02/10/2026 20:15
 155b1ced-d699-47e9-b656-2dbdf73b38c0,adirondack.diy,available,30.2,30.2,medium,low,10,cloudflare,,,28/09/2026 21:35
 a1d03360-1a14-4c1f-9c86-b9074b4ea057,sash.diy,premium,181.33,258.95,high,low,4,spaceship,,,01/10/2026 01:27
 68e6097f-7620-4304-b0d2-f1c30a4117f1,useable.diy,available,4.98,51.98,high,low,7,namecheap,,,12/09/2026 23:57
@@ -218,10 +237,13 @@ a1d03360-1a14-4c1f-9c86-b9074b4ea057,sash.diy,premium,181.33,258.95,high,low,4,s
 1b33c10c-780d-43a6-9487-cd6994e0c799,agra.diy,premium,455,650,medium,low,4,namecheap,,,17/09/2026 19:09
 c0ea5be4-17db-4600-a32f-99476777643d,luzon.diy,available,5.49,39.99,high,low,5,namesilo,,,27/09/2026 14:53
 334ae7c6-3a9b-4b51-8eda-f4b2cd0c6b05,dita.diy,premium,640,640,medium,low,4,namesilo,,,18/09/2026 14:25
+07109fd6-538f-4ce5-97b2-c617a6690cb5,dams.diy,premium,,,medium,low,4,,,,02/10/2026 13:25
 9bf668ca-37e4-4819-9b6d-e6cb9d2e0450,endoscopic.diy,available,4.98,51.98,medium,low,10,namecheap,,,17/08/2026 01:19
+8b7ff4f1-2c6a-42cd-a614-fcd34d10e942,chuckles.diy,available,5.49,39.99,medium,low,8,namesilo,,,02/10/2026 23:09
 164bf899-651b-4c97-99de-d82151e78e4e,quadruple.diy,available,4.98,51.98,high,low,9,namecheap,,,18/08/2026 13:24
 b5b1e4bc-56ed-4133-a8e9-cd68e96984f1,cognisance.diy,available,5.49,39.99,high,low,10,namesilo,,,21/09/2026 09:57
 b496f4a2-3647-44f8-a7b2-89724c8fc100,boise.diy,premium,640,640,high,low,5,namesilo,,,30/09/2026 16:28
+1600bb5e-c190-4b0a-bffe-65eadc79f49b,bollinger.diy,available,30.2,30.2,medium,low,9,cloudflare,,,02/10/2026 20:38
 9f4c1bee-b4f3-43ff-a2f1-a321398115f2,hull.diy,premium,,,high,low,4,,,,28/09/2026 01:42
 3c6a608b-4b8c-4135-93d4-16557cfe5607,sarcasm.diy,available,4.98,51.98,high,low,7,namecheap,,,24/09/2026 13:16
 409bf7db-3bab-4702-bb85-512bc2dcffce,slept.diy,premium,87.5,,medium,low,5,name.com,,,
@@ -240,20 +262,22 @@ ee9e756f-c2a2-4862-a658-bc446f3de802,scrubby.diy,available,4.98,51.98,medium,low
 07ac8daf-4e09-4e21-b8c4-33895faa07df,row.diy,premium,1107,1107,high,low,3,namesilo,,,25/09/2026 05:05
 04302387-d56f-4dab-87de-a07b9c383c6e,steal.diy,premium,87.5,,medium,low,5,name.com,,,29/09/2026 05:35
 e4f711a5-9805-4cb7-afe6-ca2ef8b86c1e,berk.diy,premium,302.5,302.5,medium,low,4,namesilo,,,23/09/2026 09:31
-5b21c76c-144f-4dd6-a4f8-27bb1ecca575,ellen.diy,available,5.49,39.99,high,low,5,namesilo,,,
+5b21c76c-144f-4dd6-a4f8-27bb1ecca575,ellen.diy,available,4.63,31.41,high,low,5,porkbun,,,02/10/2026 09:09
 7f5b7b67-20be-4adb-832c-5d2e15fa1111,keynote.diy,premium,550,550,high,low,7,dynadot,,,30/09/2026 17:48
 ae0e884d-2fe4-4afe-bb7a-413382f94428,pile.diy,premium,218.75,312.5,high,low,4,name.com,,,25/08/2026 00:39
 054b134d-56d5-46d7-bca5-2266d60a7c27,pnp.diy,premium,640,640,high,low,3,namesilo,,,01/10/2026 10:30
+6bc76f6b-b306-4ceb-8b97-d257077f0cdb,highs.diy,premium,72.65,103.7,medium,low,5,spaceship,,,02/10/2026 23:35
 1fd4d997-d829-406e-b5b8-8e33a8e2f7db,abductor.diy,available,4.98,51.98,medium,low,8,namecheap,,,16/09/2026 14:54
 8bab6855-134c-4540-ab06-f6eb07f41f3e,intensely.diy,available,4.98,51.98,high,low,9,namecheap,,,15/09/2026 08:54
 f6cf57a6-a10e-4352-a3d6-b9bfe84ef1b9,aids.diy,premium,227.5,325,medium,low,4,namecheap,,,28/09/2026 17:52
 d53ce235-7f5d-468d-bf76-e7d1daca7103,eristic.diy,available,4.98,51.98,medium,low,7,namecheap,,,17/08/2026 12:17
 c10a32b5-41a4-47c9-8046-1f8490d4f5a8,mosul.diy,premium,,,medium,low,5,,,,29/09/2026 19:43
+9ef006fd-5afc-4f7a-b8d6-f6e71899dd06,mvc.diy,premium,302.5,302.5,high,low,3,namesilo,,,02/10/2026 18:44
 f4a45c2f-918e-4086-8d98-ff07fe1e9deb,harrison.diy,premium,455,650,high,low,8,namecheap,,,23/09/2026 08:20
 b88b16f5-ede1-473b-b3fb-60d6f5d8c080,finch.diy,premium,640,640,high,low,5,namesilo,,,29/09/2026 06:55
 d618ae88-203f-4c5c-8c81-f79fb677923e,latakia.diy,available,5.49,39.99,medium,low,7,namesilo,,,18/09/2026 01:28
 ca4e1d5c-8c01-4437-a704-5cf1c90b3962,paige.diy,available,5.49,39.99,high,low,5,namesilo,,,27/09/2026 04:38
-d3cb0b7f-1449-4b81-90c7-5aaff8429ffe,mouth.diy,premium,72.65,103.7,high,low,5,spaceship,,,28/09/2026 08:01
+d3cb0b7f-1449-4b81-90c7-5aaff8429ffe,mouth.diy,premium,116,116,high,low,5,namesilo,,,02/10/2026 11:41
 71dbc2ca-b608-4b89-a634-e510539a8f22,benzol.diy,available,4.98,51.98,high,low,6,namecheap,,,23/09/2026 08:53
 91f3b36f-155e-4445-8773-617b47783e86,neotropical.diy,available,30.2,30.2,medium,low,11,cloudflare,,,01/10/2026 05:24
 617a62fc-8a56-4e1b-870d-d58704f1654b,unnamed.diy,premium,455,650,medium,low,7,namecheap,,,03/09/2026 12:56
@@ -324,8 +348,11 @@ f58c12b2-f726-4ae7-95b1-02f47ab0e68f,absinth.diy,available,5.49,39.99,medium,low
 81768b91-7c03-471e-b1cc-8a14b1cd81de,basilicata.diy,available,5.49,39.99,medium,low,10,namesilo,,,22/09/2026 10:50
 a340f9d9-4aec-4037-a3f0-c10623ec0fc5,burping.diy,available,4.98,51.98,medium,low,7,namecheap,,,23/09/2026 04:38
 82e2d20a-e8d0-4ec0-97d5-7689a29795db,anergy.diy,available,4.98,51.98,medium,low,6,namecheap,,,19/09/2026 05:29
+9a06bcd1-28da-4fff-9cdc-6e9bdf983a3d,modoc.diy,premium,110,110,high,low,5,dynadot,,,02/10/2026 09:46
 5d7e1491-a1dd-4695-93cc-59d14b6e5ab4,lure.diy,premium,302.5,302.5,high,low,4,namesilo,,,21/09/2026 19:43
+110d63bc-5c5b-4d7e-bf94-578661ad7c7e,nonfiction.diy,available,4.35,31.25,high,low,10,spaceship,,,02/10/2026 11:45
 f9abe8a3-9a00-4016-9f42-4a20f55588d3,ramesh.diy,available,5.49,39.99,medium,low,6,namesilo,,,02/10/2026 00:05
+ff7d6a18-23e6-4e59-a664-4755c33263c1,authoritative.diy,available,4.35,31.25,medium,low,13,spaceship,,,03/10/2026 02:46
 74ad0f6f-6b8f-466f-8ca8-9e57e951b0ad,main.diy,premium,302.5,302.5,high,low,4,namesilo,,,23/09/2026 09:34
 da2dbaf3-9913-45c9-a37f-8c3c207a7f26,achieving.diy,available,4.35,31.25,high,low,9,spaceship,,,30/09/2026 19:23
 04e24a26-cb62-4e3f-ac71-0e43d17a290a,holyoke.diy,available,30.2,30.2,medium,low,7,cloudflare,,,28/09/2026 08:11
@@ -339,6 +366,7 @@ fea4af2a-a574-4736-a108-9b1e5763022e,nasally.diy,available,4.98,51.98,medium,low
 4522b58a-6e6d-46ea-b41a-6dc8397ae85e,nobleman.diy,available,4.98,51.98,high,low,8,namecheap,,,03/09/2026 18:00
 690b6c83-fcd3-47fa-986b-00225afee8e3,clubbish.diy,available,4.98,51.98,low,low,8,namecheap,,,12/08/2026 12:59
 087aadeb-f13a-41dc-bd38-5464ac23af25,yunnan.diy,available,4.35,31.25,medium,low,6,spaceship,,,28/09/2026 06:53
+5083ec38-fe40-43a3-8a4c-3fdcb5167d79,upn.diy,premium,302.5,302.5,medium,low,3,namesilo,,,03/10/2026 04:32
 6cfbcbab-c996-4531-a63c-b4a5b92dc00a,drastic.diy,available,4.98,51.98,high,low,7,namecheap,,,14/08/2026 18:27
 88731e67-b879-4905-aaf8-6f004e148e01,inception.diy,premium,1107,1107,high,low,9,namesilo,,,29/09/2026 23:45
 7b66c9ec-5b05-404d-8af9-8484df32d64d,appetizing.diy,available,4.98,51.98,high,low,10,namecheap,,,06/08/2026 06:45
@@ -370,11 +398,14 @@ b6b12ea8-31c5-4d43-a353-c52d39a2577e,sacrifice.diy,available,5.49,39.99,high,low
 b58d913e-3979-451e-96c7-210e5e142413,dexterous.diy,available,4.98,51.98,high,low,9,namecheap,,,13/08/2026 23:51
 6a09e0d4-3cab-4da1-8f06-3f3f945fc32e,prohibited.diy,available,4.98,51.98,medium,low,10,namecheap,,,08/08/2026 13:48
 8f5463fb-d9c1-4b38-baca-264615bec2f3,mockingly.diy,available,4.98,51.98,medium,low,9,namecheap,,,14/09/2026 12:02
+3325b360-97e6-42e0-867a-93c9de159f05,loudspeaker.diy,available,5.49,39.99,high,low,11,namesilo,,,02/10/2026 07:17
 157bfc48-3618-4999-a7c5-81c3b9966bab,sneakers.diy,available,4.63,31.41,high,low,8,porkbun,,,01/10/2026 16:47
+bb73880a-04a7-410f-a2f0-30750e70d285,gaskell.diy,available,4.35,31.25,medium,low,7,spaceship,,,03/10/2026 00:38
 72eb67e2-4e73-4835-98f1-fca4197df5a0,picky.diy,premium,87.5,125,high,low,5,name.com,,,18/08/2026 05:00
 e49e0bb0-2d4d-4445-830b-6428524e0a33,unshaved.diy,available,4.98,51.98,medium,low,8,namecheap,,,12/09/2026 19:42
 54c3a588-aad4-4c3b-a964-89d63173d025,aculea.diy,available,4.98,51.98,low,low,6,namecheap,,,17/09/2026 05:32
 ab955832-52ad-4262-99d0-410e0fea6eb3,aspartame.diy,available,5.49,39.99,medium,low,9,namesilo,,,20/09/2026 14:43
+ff7a3796-7e66-4682-b1ff-8cc9bc0ef876,noguchi.diy,premium,362.45,517.7,medium,low,7,spaceship,,,02/10/2026 15:42
 6ca4d52b-dbb7-4ec9-8ef6-d98980743344,algin.diy,premium,116,116,medium,low,5,namesilo,,,18/09/2026 07:04
 d0aead0f-2482-4cc6-a13e-fbf2d57fb81d,conga.diy,premium,116,116,high,low,5,namesilo,,,24/09/2026 17:17
 2ef39a55-d079-4bd2-87ca-0748ef4c303d,horowitz.diy,available,4.35,31.25,medium,low,8,spaceship,,,28/09/2026 10:06
@@ -412,17 +443,20 @@ ca69f83a-a186-4e56-b932-24a925a3d9ab,spicate.diy,available,4.98,51.98,high,mediu
 db45b49d-36db-4156-b741-98afd293b361,adventurer.diy,available,5.49,39.99,high,low,10,namesilo,,,17/09/2026 10:41
 78959635-2c57-4af5-af54-b1dd97ff2145,fairly.diy,available,4.98,51.98,high,low,6,namecheap,,,24/09/2026 16:08
 da44d9ca-67f2-4dab-82ab-0e467742872d,chivalrous.diy,available,4.98,51.98,high,low,10,namecheap,,,12/08/2026 06:14
+9e5a5729-3271-4232-96d0-235a5bcc12aa,hinted.diy,available,4.99,32.32,medium,low,6,dynadot,,,02/10/2026 11:25
 223c2984-d806-4326-a303-d4c3308b63ef,unleaded.diy,available,4.98,51.98,high,low,8,namecheap,,,22/08/2026 21:46
 b8f9ebc4-b535-4336-a550-04f19191a2b4,hafnium.diy,available,4.98,51.98,medium,low,7,namecheap,,,20/09/2026 23:42
 ed167625-dc30-499d-8368-2e85ab529853,gnomic.diy,available,4.98,51.98,medium,low,6,namecheap,,,20/08/2026 15:44
 21ba59a4-1e64-44b8-ace4-86027a213cc5,rapture.diy,available,4.35,31.25,high,low,7,spaceship,,,02/10/2026 04:40
 6beaa7ec-d236-4020-9a2a-229790d93f7f,cashew.diy,available,4.98,51.98,high,low,6,namecheap,,,19/09/2026 01:00
 ab6eab0f-2f00-4932-848f-1168ef1e0d07,vibration.diy,available,5.49,39.99,high,low,9,namesilo,,,19/09/2026 17:28
+a2d730d7-31a0-4993-93ba-a913a09dde64,kharkiv.diy,premium,76.94,109.69,medium,low,7,porkbun,,,03/10/2026 01:24
 18c5176b-de62-4f07-ad76-aec5c0705fe0,sampson.diy,available,5.49,39.99,medium,low,7,namesilo,,,27/09/2026 01:42
 1329bdb2-603a-49dc-80e3-72374d98c9c2,sleeves.diy,available,4.35,31.25,medium,low,7,spaceship,,,29/09/2026 10:37
 e0de2a87-a7f2-4db8-b067-1c4d80fb5561,yorkshire.diy,available,4.35,31.25,high,low,9,spaceship,,,30/09/2026 03:11
 5d593798-432a-4297-b7df-72c81a4ce0e5,arguing.diy,available,5.49,39.99,medium,low,7,namesilo,,,20/09/2026 04:50
 94e51879-9044-46f1-a89c-f5369bed574e,figure.diy,available,5.49,39.99,high,low,6,namesilo,,,24/09/2026 16:50
+90704456-3da7-471a-8868-a9bf24d756b4,dearborn.diy,available,30.2,30.2,high,low,8,cloudflare,,,03/10/2026 02:51
 19c902e1-b8e2-4aac-8d55-dcf672f5fe49,gather.diy,premium,455,650,high,medium,6,namecheap,,,23/09/2026 20:27
 e64559b0-90d2-40e8-b28e-65981b1a36d3,tex.diy,premium,1107,1107,medium,low,3,namesilo,,,29/09/2026 03:26
 883a764f-5c1d-4d6a-9d3a-ec38c2353f62,cxx.diy,premium,218.75,312.5,high,low,3,name.com,,,
@@ -492,6 +526,7 @@ b15387bc-710f-40d9-ad49-8a24b7846d5e,daring.diy,available,4.98,51.98,high,low,6,
 d7af7548-a5d3-4fcf-8ee0-20f9a6bc1a1b,himself.diy,available,4.98,51.98,medium,low,7,namecheap,,,01/10/2026 11:26
 07f9a6a5-0a5e-4a45-bd55-fdb8925c9db7,assessment.diy,available,5.49,39.99,high,low,10,namesilo,,,01/10/2026 16:34
 a3918bd7-a99a-40d6-8cc4-8f4ee7920f1e,unmediated.diy,available,4.98,51.98,medium,low,10,namecheap,,,12/09/2026 15:32
+539ccc2d-3c17-4053-805d-f41c5e8bba55,boulders.diy,available,5.49,39.99,medium,low,8,namesilo,,,02/10/2026 21:51
 f9d7c089-7c99-4531-acad-f28f539c5a30,sheepish.diy,available,4.98,51.98,high,medium,8,namecheap,,,10/09/2026 06:19
 ac8e8585-ce0c-45d0-9942-5999eefa7449,surprise.diy,premium,455,650,high,low,8,namecheap,,,30/09/2026 12:35
 8ca12a0f-16f2-42fd-b76d-a56fd7d2f332,intune.diy,available,5.49,39.99,high,low,7,namesilo,,,17/09/2026 12:54
@@ -511,6 +546,7 @@ ef3ae2cc-c048-4f27-b2f5-b3e486883615,juliana.diy,available,4.98,51.98,medium,low
 adaaeebc-c741-47e5-bec4-424d63446af8,arbor.diy,premium,116,116,high,low,5,namesilo,,,20/09/2026 00:48
 738b1cc7-4159-4eff-a94f-67530d79f4ea,killers.diy,available,5.49,39.99,medium,low,7,namesilo,,,27/09/2026 11:04
 0ade42a1-8f90-4a8e-8a59-fda2a90f8acb,penultima.diy,available,4.98,51.98,medium,low,9,namecheap,,,08/09/2026 15:14
+3067a4f6-efc9-4cbc-9a83-21913ae62201,pella.diy,premium,455,650,medium,low,5,namecheap,,,02/10/2026 19:14
 74f8b3f2-7128-4b25-88b2-172e2262955e,barb.diy,premium,302.5,302.5,high,low,4,namesilo,,,22/09/2026 04:14
 d72aa5e4-6b51-4e1a-9e8b-6c8b8c3c813c,maury.diy,available,30.2,30.2,medium,low,5,cloudflare,,,29/09/2026 03:39
 e0412572-dbcb-4f35-a877-1d7f8e2c1175,confirmed.diy,available,4.98,51.98,high,low,9,namecheap,,,23/09/2026 19:53
@@ -528,6 +564,7 @@ ea8a929a-9133-4e60-934c-e94ba4bf865e,pharma.diy,available,4.35,31.25,high,low,6,
 e7642d9b-2319-4167-bb3b-418bf7908c97,blowy.diy,premium,87.5,125,medium,low,5,name.com,,,10/08/2026 15:47
 c219e28b-83e4-4762-a882-4fdf37721f82,errorless.diy,available,4.98,51.98,high,low,9,namecheap,,,17/08/2026 13:01
 c5f3f1ff-1654-44d2-84cf-fb8e59578f7a,jumped.diy,available,5.49,39.99,medium,low,6,namesilo,,,25/09/2026 19:41
+1957812a-1003-489c-a5c0-46fbb40cdc3d,newlands.diy,available,4.63,31.41,medium,low,8,porkbun,,,02/10/2026 07:59
 997eb4bf-83c5-450f-a5f4-e5bba2676669,beck.diy,premium,302.5,302.5,high,low,4,namesilo,,,22/09/2026 22:35
 f71ed65b-1e44-4c99-831f-fb6a3dbf5c58,prance.diy,available,4.98,51.98,high,low,6,namecheap,,,11/09/2026 05:09
 1e4e6105-ae40-42de-bf6d-8576944c55e9,trauma.diy,premium,1107,1107,high,low,6,namesilo,,,25/09/2026 07:04
@@ -549,6 +586,7 @@ fa4d989c-5dc2-4872-ae58-da27495792df,clinch.diy,available,5.49,39.99,high,low,6,
 a0e721c8-1b6c-4cfc-8947-1645014920ad,documentary.diy,available,30.2,30.2,high,low,11,cloudflare,,,28/09/2026 04:30
 0eedd747-7a8e-482b-87d1-e8b089830589,degrees.diy,available,5.49,39.99,medium,low,7,namesilo,,,25/09/2026 17:04
 987af4ca-79f9-4a9c-b6c2-ce12108ec8c3,jeffreys.diy,available,5.49,39.99,medium,low,8,namesilo,,,02/10/2026 01:14
+fea5db65-85c3-4f8d-b099-327f4dd665d4,beecham.diy,available,4.98,51.98,medium,low,7,namecheap,,,02/10/2026 23:11
 88219342-3f9f-470c-b9ce-b5970b5bf74b,bellini.diy,available,5.49,39.99,high,low,7,namesilo,,,23/09/2026 06:15
 637a691a-575f-48ce-bd02-d02602896c9e,euro.diy,premium,,,high,low,4,,,,30/09/2026 17:14
 65db73e5-6146-40e9-8dc0-13939a7e5a95,blasted.diy,available,4.98,51.98,medium,low,7,namecheap,,,10/08/2026 12:35
@@ -567,6 +605,7 @@ c0825a1f-51e6-45eb-ada3-b38abb2c622c,arousal.diy,available,4.98,51.98,high,mediu
 dc91a093-748a-4360-bcde-4bffc90340c5,vojvodina.diy,available,4.99,32.32,medium,low,9,dynadot,,,01/10/2026 23:46
 348af69b-149f-4b81-a2cd-8caec2522b40,ring.diy,premium,1449.2,2070.2,high,low,4,spaceship,,,28/09/2026 21:16
 2a48ae34-3263-4c2f-9801-009b6843f4f6,gang.diy,premium,1107,1107,high,low,4,namesilo,,,29/09/2026 20:39
+5be0618e-2d6c-4868-9ebd-ba35264aa406,corea.diy,available,4.63,31.41,medium,low,5,porkbun,,,02/10/2026 19:36
 457149fa-d1e0-4e74-9817-806f1d298a8e,ballard.diy,available,4.35,31.25,high,low,7,spaceship,,,29/09/2026 22:22
 a83e857a-b754-4c5f-a674-26129a449a2b,blastocyst.diy,available,4.98,51.98,medium,low,10,namecheap,,,24/09/2026 04:28
 e3cdcda7-3be7-439c-af3a-e32fee6eab3b,fanlike.diy,available,4.98,51.98,medium,low,7,namecheap,,,17/08/2026 22:07
@@ -584,6 +623,7 @@ aa0980fb-9609-4043-9f9c-7562dc37f96b,christiana.diy,available,5.49,39.99,medium,
 2081b316-071e-4e19-8d87-b03c084babbd,seville.diy,premium,72.65,103.7,medium,low,7,spaceship,,,30/09/2026 18:37
 006923f6-b335-40e6-9465-6adce2440bd6,numerable.diy,available,4.98,51.98,medium,low,9,namecheap,,,13/08/2026 03:32
 38072946-f592-4993-8192-17c9d468c094,abscessed.diy,available,4.98,51.98,medium,low,9,namecheap,,,
+362c6161-fc63-4e0c-89e0-91ad4246d357,instructional.diy,available,30.2,30.2,high,low,13,cloudflare,,,03/10/2026 03:29
 2f1d4004-90e6-4a3b-b99e-acb2df68b9bf,deist.diy,premium,87.5,125,medium,low,5,name.com,,,14/08/2026 00:15
 26963720-44f9-4629-8438-f5f79ac32102,obedient.diy,available,4.98,51.98,high,low,8,namecheap,,,03/09/2026 23:30
 0019a138-9d53-4147-8828-2b0b2c382e97,algometric.diy,available,4.98,51.98,medium,low,10,namecheap,,,
@@ -592,16 +632,17 @@ c1155784-845c-473b-b821-ff78edf070b7,defendable.diy,available,4.98,51.98,high,lo
 d6cccb09-37a1-481c-968a-f571499c5563,manure.diy,available,4.35,31.25,high,low,6,spaceship,,,30/09/2026 10:32
 5660022a-2be8-4936-ad68-0f117b04a9be,demoted.diy,available,5.49,39.99,low,low,7,namesilo,,,21/09/2026 05:02
 47e1e265-d788-49b0-9610-0479d5545210,squint.diy,available,4.98,51.98,medium,low,6,namecheap,,,07/08/2026 03:15
-7cea3102-d485-4fcc-a284-f1892b243fdf,intellect.diy,available,5.49,39.99,high,low,9,namesilo,,,28/09/2026 07:56
+7cea3102-d485-4fcc-a284-f1892b243fdf,intellect.diy,available,5.49,39.99,high,low,9,namesilo,,,02/10/2026 11:18
 ec8ed7e4-41a5-48f3-8934-d2f7d36e2eb9,bloodline.diy,available,4.98,51.98,high,low,9,namecheap,,,08/09/2026 13:11
 bf83bfc0-4699-4c16-a92e-4b8aa3a72bcc,gromyko.diy,available,5.49,39.99,medium,low,7,namesilo,,,19/09/2026 04:28
 f9989a90-1b0f-4cf1-b148-6189c1436a1b,levin.diy,available,4.35,31.25,high,low,5,spaceship,,,01/10/2026 15:17
 03f94527-43aa-4386-abf0-6b2bf3a3f6da,distinctly.diy,available,4.98,51.98,high,low,10,namecheap,,,14/09/2026 13:19
 27fff591-43b1-43f7-88cc-a913f8fea587,aguirre.diy,available,30.2,30.2,high,low,7,cloudflare,,,30/09/2026 05:28
-e61a93e5-0375-4f37-81d8-6c6083dc554d,bits.diy,premium,302.5,302.5,high,low,4,namesilo,,,24/09/2026 08:27
+e61a93e5-0375-4f37-81d8-6c6083dc554d,bits.diy,premium,302.5,302.5,high,low,4,namesilo,,,02/10/2026 20:49
 7c2a56e3-52eb-4a70-b333-204133f5893b,stoutness.diy,available,4.98,51.98,medium,low,9,namecheap,,,04/09/2026 22:03
 7357317e-e2e5-458f-80a9-12431f49392e,provoke.diy,available,4.35,31.25,high,low,7,spaceship,,,29/09/2026 22:15
 bc6c1454-4c6f-4043-9bdb-bd306ffa06e7,wilhelm.diy,available,4.98,51.98,high,low,7,namecheap,,,25/09/2026 18:53
+fda786b6-0bd5-4f9c-a149-701648320121,kristine.diy,available,4.99,32.32,medium,low,8,dynadot,,,02/10/2026 19:48
 14ba9446-e676-4ce9-aace-11b7555822f0,branson.diy,premium,1528.85,2183.84,high,low,7,porkbun,,,29/09/2026 17:54
 885b6d8c-7581-48bd-a3d3-5de374627151,reliever.diy,available,5.49,39.99,high,low,8,namesilo,,,18/09/2026 10:02
 b9f6e192-8fcc-44cd-9c01-e07ceb2348bd,hepatitis.diy,available,4.35,31.25,high,low,9,spaceship,,,29/09/2026 19:09
@@ -615,6 +656,7 @@ eb5f8e0b-866b-4231-9ae7-cc17efcaaeb1,andersen.diy,available,5.49,39.99,high,low,
 d177244f-612f-464b-b73f-6e4b3b36b7c6,sherwood.diy,premium,640,640,high,low,8,namesilo,,,25/09/2026 10:26
 ae7fbeb2-5f05-4c88-8a47-973436f05611,yuma.diy,premium,91,130,high,low,4,namecheap,,,28/09/2026 11:07
 d6bd38c1-7ef7-4652-bff1-81d3b52935ef,sixfold.diy,available,4.98,51.98,medium,low,7,namecheap,,,10/09/2026 05:21
+75bbe5fc-2198-4691-ba2f-a4bc492e11a1,chases.diy,available,4.98,51.98,low,low,6,namecheap,,,02/10/2026 22:52
 c20dc200-1879-4386-b4e4-422241d4bb8b,abbie.diy,available,5.49,39.99,high,low,5,namesilo,,,02/10/2026 00:07
 09751e1b-a301-420f-a112-717689feb76d,absalom.diy,available,4.35,31.25,medium,low,7,spaceship,,,01/10/2026 23:58
 4552959b-deb0-422a-a17f-2d9a08e46918,siblings.diy,available,5.49,39.99,medium,low,8,namesilo,,,29/09/2026 10:27
@@ -627,7 +669,7 @@ d60e91dc-3324-45d7-8e19-b4aeff8cc828,corona.diy,premium,550,550,high,medium,6,dy
 04f96513-02c7-41b7-81c4-4f906fd5c894,rationalism.diy,available,4.35,31.25,high,low,11,spaceship,,,30/09/2026 05:54
 cdb2ebd2-52f1-4088-88a2-ee436282d202,drank.diy,premium,72.65,103.7,high,low,5,spaceship,,,28/09/2026 08:20
 57ce94be-d032-4b9a-b89c-94d05e11cca2,benefactor.diy,available,5.49,39.99,high,low,10,namesilo,,,23/09/2026 07:53
-80661c2c-254b-4dc1-b8b0-a94a49a0ee2f,fairs.diy,premium,87.5,,high,low,5,name.com,,,
+80661c2c-254b-4dc1-b8b0-a94a49a0ee2f,fairs.diy,premium,72.65,103.7,high,low,5,spaceship,,,02/10/2026 07:33
 c07e541f-27b8-41d8-93de-f50c376f83d5,powerfully.diy,available,4.98,51.98,high,low,10,namecheap,,,15/09/2026 21:10
 379405e4-5521-431e-a954-dfc0a3228b03,din.diy,premium,875,1250,medium,low,3,name.com,,,10/08/2026 13:17
 377df38e-33ad-4e2a-adb1-421e90163e5e,ransacked.diy,available,4.98,51.98,medium,low,9,namecheap,,,24/08/2026 09:49
@@ -642,6 +684,7 @@ d70400d7-fc3f-42cf-89bc-49d39a9f701e,minutes.diy,available,30.2,30.2,high,low,7,
 33bec140-fe32-4ff9-b716-f6f45a94ae05,tipple.diy,available,5.49,39.99,medium,low,6,namesilo,,,23/09/2026 12:44
 eb504f81-60e4-4c77-99da-d137a25aa323,deserts.diy,available,30.2,30.2,high,low,7,cloudflare,,,01/10/2026 01:30
 780e83ad-41a4-4aec-8d6e-b0f7390a57f3,sumatran.diy,available,4.98,51.98,high,low,8,namecheap,,,11/09/2026 01:31
+04cf1db9-84ff-4378-9a49-a49e683a1c44,interlude.diy,available,5.49,39.99,high,low,9,namesilo,,,03/10/2026 01:18
 d51f3bb5-890f-4645-91f4-d39980b98105,hallelujah.diy,available,4.35,31.25,high,low,10,spaceship,,,29/09/2026 19:07
 f3de80b5-ed8d-43b0-9115-df7d55d2ed9f,unstrung.diy,available,4.98,51.98,medium,low,8,namecheap,,,12/09/2026 20:39
 2ffdf871-3640-40a0-991b-8bba2babedd5,nobody.diy,available,5.49,39.99,high,low,6,namesilo,,,30/09/2026 05:49
@@ -656,6 +699,7 @@ e3bd0501-8788-4bc5-9511-17d88b361d4b,faceted.diy,available,4.98,51.98,medium,low
 b1befb83-ccb5-4055-8e54-0d96a779c6a4,grandfather.diy,available,5.49,39.99,high,low,11,namesilo,,,30/09/2026 22:05
 f0854fca-b385-4202-909a-8675768ff220,digits.diy,available,39.99,,high,low,6,name.com,,,
 1ff299cd-c709-4ae2-8ed0-5f927f3b82e4,westhill.diy,available,5.49,39.99,medium,low,9,namesilo,,,
+278682dc-6406-4fa1-bb53-f433630dd5f8,cardiology.diy,premium,724.7,1035.2,high,low,10,spaceship,,,02/10/2026 23:52
 4b89e293-03a8-40bc-89fa-9ae4837d41a7,dissident.diy,available,4.98,51.98,medium,low,9,namecheap,,,14/08/2026 12:30
 29b21c18-3e77-4756-bf4f-4ebc39fe0044,captivated.diy,available,4.98,51.98,medium,low,10,namecheap,,,09/08/2026 09:52
 834370a4-27c4-42a0-a6d6-489db99539ae,reed.diy,premium,640,640,high,low,4,namesilo,,,22/09/2026 21:42
@@ -672,6 +716,7 @@ f4c012df-f7d7-4ff5-8902-93e503e873e6,crease.diy,available,4.98,51.98,high,low,6,
 4b1e5b0d-71ae-4169-b116-bc1a38c7d614,donuts.diy,premium,640,640,high,medium,6,namesilo,,,18/09/2026 14:27
 23af2958-a5f9-4fd4-adab-023020383c6b,cubby.diy,premium,91,130,high,medium,5,namecheap,,,10/09/2026 12:51
 391e8d53-623e-4103-8d69-6daacd2e76e1,handles.diy,available,4.35,31.25,medium,low,7,spaceship,,,28/09/2026 13:13
+f39a1cd4-f13b-47e1-8d2e-a73997721b60,firefox.diy,available,5.49,39.99,high,medium,7,namesilo,,,02/10/2026 07:31
 7ee273cc-c63e-45f7-bece-6c29a6f11e6e,his.diy,premium,1107,1107,high,low,3,namesilo,,,01/10/2026 11:33
 16455198-028e-4c7f-be04-effcd357ea29,partnership.diy,available,5.49,39.99,high,low,11,namesilo,,,28/09/2026 04:23
 7285020f-7e57-4485-a720-3ce40e3640d5,haight.diy,available,5.49,39.99,medium,low,6,namesilo,,,02/10/2026 04:03
@@ -702,14 +747,16 @@ f61cbea0-01ed-41f5-84ae-99affeaf6b08,stretched.diy,available,4.98,51.98,medium,l
 00e9942d-2907-4071-b185-12460182bb72,hides.diy,premium,116,116,medium,low,5,namesilo,,,18/09/2026 23:59
 c087a5fe-a08b-42a4-a26f-090a64aa12c6,camels.diy,available,4.99,32.32,medium,low,6,dynadot,,,30/09/2026 15:26
 fc3a8dc7-6c24-4c4e-9a9c-54cb4ac5572d,breakthrough.diy,available,4.35,31.25,high,low,12,spaceship,,,28/09/2026 07:10
+b8fac06f-b38c-4c55-a913-fdf8907f6e78,klee.diy,available,5.49,39.99,high,low,4,namesilo,,,02/10/2026 15:53
 4af05137-4632-4706-a095-78535d6271b2,benighted.diy,available,4.98,51.98,low,low,9,namecheap,,,08/09/2026 09:10
 50920112-1abe-42fa-ad73-93f8008d0b49,bezant.diy,available,5.49,39.99,medium,low,6,namesilo,,,23/09/2026 12:11
 0a8795a4-98b1-487e-8ad0-3e10b534b18d,maid.diy,premium,302.5,302.5,high,low,4,namesilo,,,25/09/2026 16:10
-eb0d08f3-7ecf-49ba-bed8-74f0cbbd5ee7,healthcare.diy,premium,455,650,high,low,10,namecheap,,,30/09/2026 06:01
+eb0d08f3-7ecf-49ba-bed8-74f0cbbd5ee7,healthcare.diy,premium,382.61,546.35,high,low,10,porkbun,,,02/10/2026 09:02
 64b3f784-42ed-4e41-9a7a-9a276778b69f,sixty.diy,premium,87.5,125,high,low,5,name.com,,,
 d1af46d7-d263-4d3f-9bcb-6c9ab6dca53f,visceral.diy,available,4.98,51.98,medium,low,8,namecheap,,,10/09/2026 16:02
+b2c321a6-6837-424d-a36a-56004dc7c2f6,thomsen.diy,available,30.2,30.2,medium,low,7,cloudflare,,,02/10/2026 20:09
 f41acb54-8f38-4dfd-b24d-b4bf780fc5e4,bottoms.diy,available,4.98,51.98,medium,low,7,namecheap,,,20/09/2026 18:24
-a7f18c61-fc72-4a8e-a070-d684e7317628,phrases.diy,available,5.49,39.99,medium,low,7,namesilo,,,
+a7f18c61-fc72-4a8e-a070-d684e7317628,phrases.diy,available,4.35,31.25,medium,low,7,spaceship,,,02/10/2026 21:24
 85f43ca1-61f5-4a93-8f0e-b815be23cafd,omen.diy,premium,302.5,302.5,high,low,4,namesilo,,,27/09/2026 07:13
 39b58e28-a268-49d3-b1e7-7081998eae47,summary.diy,available,5.49,39.99,high,low,7,namesilo,,,23/09/2026 17:08
 97b2456c-9606-4cb0-83d0-575e898da134,oates.diy,available,30.2,30.2,medium,low,5,cloudflare,,,28/09/2026 19:34
@@ -755,6 +802,7 @@ a624a522-49b7-4dd8-a6be-349ffd53b044,diet.diy,premium,227.5,325,high,low,4,namec
 c06a43d8-986d-48be-9e7d-0703f176c185,inning.diy,available,30.2,30.2,high,low,6,cloudflare,,,30/09/2026 17:41
 94b36490-a649-4bbe-a3a9-a3eacb4db095,dumfries.diy,available,5.49,39.99,medium,low,8,namesilo,,,30/09/2026 05:24
 e4acc824-a2ed-4b54-b983-2aeefb65a6b9,roundish.diy,available,4.98,51.98,high,medium,8,namecheap,,,09/09/2026 19:04
+d4c678e4-dca1-4684-b14a-2b03be89481f,sacrament.diy,available,4.35,31.25,high,low,9,spaceship,,,02/10/2026 06:18
 65df3868-c735-499f-a49b-8a1d59b828d5,floated.diy,available,5.49,39.99,medium,low,7,namesilo,,,30/09/2026 15:08
 c8607508-5a99-487a-ac3d-b4680f4af867,analyser.diy,available,5.49,39.99,high,low,8,namesilo,,,19/09/2026 01:57
 df0e0f35-9625-4f9f-b2f6-5b10335eed66,exe.diy,premium,302.5,302.5,high,low,3,namesilo,,,01/10/2026 06:45
@@ -766,6 +814,7 @@ df0e0f35-9625-4f9f-b2f6-5b10335eed66,exe.diy,premium,302.5,302.5,high,low,3,name
 9867e98b-06ff-4e20-9064-ab53b272a870,acrobat.diy,premium,640,640,high,medium,7,namesilo,,,17/09/2026 03:17
 f9327a79-1ea5-40e3-9406-475c1ae3a39d,gamble.diy,premium,2660,2660,high,low,6,namesilo,,,17/09/2026 10:37
 3085a501-bc75-4b02-ad73-1ec0294350cc,connie.diy,available,4.98,51.98,high,low,6,namecheap,,,25/09/2026 12:17
+b54bf17f-a573-4030-a558-d70eee9924a1,thakur.diy,available,4.35,31.25,high,low,6,spaceship,,,02/10/2026 19:13
 57e0c620-c176-477b-8a30-27326738c3ff,shadowed.diy,available,4.98,51.98,medium,low,8,namecheap,,,10/09/2026 05:25
 f2f903f8-1d58-4f39-a4d1-9fdbeec1045f,irritable.diy,available,5.49,39.99,medium,low,9,namesilo,,,25/09/2026 11:30
 347015ba-8740-43ac-ac48-49a1f6486048,tripped.diy,available,4.35,31.25,medium,low,7,spaceship,,,01/10/2026 00:50
@@ -774,6 +823,7 @@ c5123c2b-614f-44b8-9cfb-25c58e30f565,singaporean.diy,available,4.35,31.25,high,l
 c2cecbc8-cd02-4795-a38b-8f852f9bbd29,vaporized.diy,available,4.98,51.98,medium,low,9,namecheap,,,18/08/2026 20:28
 5e8ba7b5-dc88-4767-9130-187935400d61,sintering.diy,available,4.35,31.25,medium,low,9,spaceship,,,01/10/2026 15:38
 47233418-7377-4577-bfcb-1fc31f87941a,removing.diy,available,30.2,30.2,high,low,8,cloudflare,,,28/09/2026 07:21
+a0d0928c-01ea-4196-95ef-d4c72e7686bc,smokey.diy,available,4.35,31.25,high,low,6,spaceship,,,02/10/2026 19:03
 05de7ff4-9f0b-4ed3-8e93-7964c761c7a6,valuator.diy,available,5.49,39.99,medium,low,8,namesilo,,,19/09/2026 22:13
 913a36b6-aefa-48eb-be17-9bc0e74e0700,dystopian.diy,available,4.98,51.98,medium,low,9,namecheap,,,14/08/2026 22:10
 d2fcd53c-378d-4bcd-817a-8db426b47557,jesus.diy,premium,1107,1107,high,medium,5,namesilo,,,29/09/2026 09:01
@@ -790,7 +840,7 @@ e6f21d87-ed66-4f98-9057-a58a14584f21,tirana.diy,premium,640,640,high,low,6,names
 287f6cf9-495e-4615-a192-8bc798d7359f,penalty.diy,available,5.49,39.99,high,low,7,namesilo,,,27/09/2026 04:58
 57b33320-58c7-4830-8828-93e164477730,deportation.diy,available,5.49,39.99,medium,low,11,namesilo,,,29/09/2026 23:26
 a1bf590a-d46f-4084-9eef-8bbc35a787a4,tyre.diy,premium,181.33,258.95,high,low,4,spaceship,,,29/09/2026 08:11
-7e3bd1f7-4ced-41a1-ae0b-b06a9c83bee9,gregor.diy,available,5.49,39.99,high,low,6,namesilo,,,
+7e3bd1f7-4ced-41a1-ae0b-b06a9c83bee9,gregor.diy,available,30.2,30.2,high,low,6,cloudflare,,,02/10/2026 13:16
 b9e344cb-fb6b-4cb3-b358-61617ab0ffb7,moire.diy,premium,87.5,125,medium,low,5,name.com,,,25/08/2026 03:26
 d771c3e7-d280-452c-b2d8-5e82a58b54b2,worrying.diy,available,4.98,51.98,medium,low,8,namecheap,,,14/08/2026 13:23
 47f1cf99-f618-45cb-97ca-a8a95b82856b,extensible.diy,available,4.98,51.98,medium,low,10,namecheap,,,17/08/2026 19:03
@@ -817,7 +867,7 @@ a935593f-1ce7-403c-8ad1-a6ae27a2db33,nursed.diy,available,4.98,51.98,medium,low,
 251bccbc-2746-41a3-b6fe-c3af9a8e34ab,lxxxii.diy,available,4.98,51.98,medium,low,6,namecheap,,,
 dfd8e13f-03f9-4b08-963d-cc3b535793b2,mates.diy,premium,72.65,103.7,high,low,5,spaceship,,,28/09/2026 10:21
 50c98d49-bcfd-4f3e-8ff6-b1cbfaadd644,prenuptial.diy,available,5.49,39.99,high,low,10,namesilo,,,22/09/2026 06:05
-92e55b64-0841-4596-9b3f-2966f9929b14,art.diy,premium,1449.2,2070.2,high,medium,3,spaceship,,,01/10/2026 12:42
+92e55b64-0841-4596-9b3f-2966f9929b14,art.diy,premium,2660,2660,high,medium,3,namesilo,,,03/10/2026 02:54
 f6ab966d-dd4d-4cf3-9fe9-fafc7df657f5,dss.diy,premium,362.45,517.7,high,medium,3,spaceship,,,30/09/2026 13:05
 7ad794ec-e4c0-4861-8fc3-b5b815c556a2,provably.diy,available,4.98,51.98,medium,low,8,namecheap,,,14/09/2026 11:29
 1562c210-e3d9-4106-95b5-248e5a024d71,carmine.diy,available,4.98,51.98,high,low,7,namecheap,,,10/08/2026 15:02
@@ -830,16 +880,18 @@ b2b4988e-354c-4dd4-bdd8-c0b43792c11d,suffice.diy,available,4.99,32.32,high,low,7
 7f49ad55-0e5b-496b-af1c-42c3615c5151,mildred.diy,available,4.99,32.32,medium,low,7,dynadot,,,28/09/2026 12:04
 53a1f56a-2ef1-4b12-b9da-1571c047a0c2,chambers.diy,premium,455,650,high,low,8,namecheap,,,08/09/2026 06:47
 b3f0f37e-38e2-45a8-861f-971cbcfecb06,enzo.diy,premium,550,550,high,low,4,dynadot,,,30/09/2026 21:18
+5c23beed-c60c-4dc7-8c3a-135321488499,jeddah.diy,premium,91,130,high,low,6,namecheap,,,02/10/2026 05:29
 c48699c6-baf1-489e-a19a-f822a0612a78,pledge.diy,premium,640,640,high,low,6,namesilo,,,27/09/2026 15:17
 6db7e1db-5920-46ff-92b3-8b79d3967e6a,alir.diy,available,4.98,51.98,medium,low,4,namecheap,,,17/08/2026 22:11
 1a28455b-b743-4656-a603-69435db74b38,transverse.diy,available,4.98,51.98,high,low,10,namecheap,,,13/08/2026 07:54
 abc3c63c-fa39-4e74-be09-559bce4cf08b,giles.diy,available,4.98,51.98,medium,low,5,namecheap,,,30/09/2026 04:47
 8848d84a-6c3b-432f-9de2-22e57bb0c36a,overlooking.diy,available,5.49,39.99,medium,low,11,namesilo,,,30/09/2026 00:35
 47862619-0df7-4152-87d0-ec9fa60a2f37,barbecues.diy,available,5.49,39.99,medium,low,9,namesilo,,,21/09/2026 08:34
+6f21362b-1e50-4a0d-b6ba-dd6e538da4a4,physicists.diy,available,5.49,39.99,medium,low,10,namesilo,,,02/10/2026 13:55
 5d4d6f47-4672-47c7-a9a8-b85b842f5ca0,dominican.diy,available,4.98,51.98,high,low,9,namecheap,,,14/08/2026 15:44
 729f6da5-e3b1-4ab8-89e3-6c10a80530e0,balthasar.diy,available,5.49,39.99,high,low,9,namesilo,,,22/09/2026 00:15
 36dd2cf8-9607-45c5-9ba8-2264cf4d146c,lowell.diy,available,5.49,39.99,high,low,6,namesilo,,,16/09/2026 14:32
-d260744b-a6a1-4cf9-9d8b-f9101e73e7e7,movie.diy,premium,640,640,high,low,5,namesilo,,,30/09/2026 09:35
+d260744b-a6a1-4cf9-9d8b-f9101e73e7e7,movie.diy,premium,362.45,517.7,high,low,5,spaceship,,,02/10/2026 15:48
 9b496c79-899b-425a-8366-37eb2e2ba7bd,inscribed.diy,available,4.98,51.98,medium,low,9,namecheap,,,17/08/2026 08:24
 a5248606-d86b-4ff7-a217-187d7a8d483d,reaper.diy,available,30.2,30.2,high,low,6,cloudflare,,,30/09/2026 17:30
 79ce36a6-2cf4-482c-9b05-dea66a0ea655,overpriced.diy,available,4.98,51.98,medium,low,10,namecheap,,,04/09/2026 21:26
@@ -848,6 +900,7 @@ aebfd2d3-77e8-45f4-9d9e-6cb1666a5f13,begonia.diy,available,4.98,51.98,medium,low
 4ae35b85-bcb8-47f1-b878-3fd4753d99ba,partake.diy,available,5.49,39.99,high,low,7,namesilo,,,30/09/2026 11:28
 7404faef-c694-43e1-857c-7e1fc09f0639,drills.diy,available,4.35,31.25,medium,low,6,spaceship,,,30/09/2026 15:41
 346c3005-9ba9-4438-8d0e-f29f2fd55ce7,mohammed.diy,available,4.98,51.98,high,low,8,namecheap,,,30/09/2026 17:57
+b3280afd-dc2b-40de-be86-29ffb53e0638,commendable.diy,available,5.49,39.99,high,low,11,namesilo,,,03/10/2026 03:05
 fca61a4e-b998-46f3-a4a2-a8a332bb78b5,throbbing.diy,available,4.98,51.98,high,low,9,namecheap,,,11/09/2026 14:47
 d827a8f8-86c0-4b03-b086-0dd23d93a4c7,godzilla.diy,premium,640,640,high,medium,8,namesilo,,,19/09/2026 06:09
 66bb2861-e81b-49da-931f-f0f6791321ff,briefing.diy,available,4.35,31.25,high,low,8,spaceship,,,29/09/2026 04:17
@@ -864,6 +917,7 @@ f1bbcad2-bacc-4b22-ad08-0df5bfed6c45,paunchy.diy,available,4.98,51.98,medium,low
 bcc032b4-781a-441f-bb7c-1827b9b70b98,clothes.diy,premium,2200,2200,high,low,7,dynadot,,,28/09/2026 21:50
 5a105873-b29f-42ce-a403-6801656aa59b,popular.diy,premium,640,640,high,low,7,namesilo,,,27/09/2026 04:30
 7f13020c-2efe-4946-897e-5354aa3ae346,backspacer.diy,available,5.49,39.99,medium,low,10,namesilo,,,21/09/2026 16:02
+7d0e8f81-5758-4cf3-95f6-129abdc8d5fe,lotta.diy,premium,110,110,medium,low,5,dynadot,,,03/10/2026 03:04
 2098108c-f843-4179-bf69-234a73daaad2,traveled.diy,available,5.49,39.99,high,low,8,namesilo,,,28/09/2026 09:30
 716d0698-7ebd-4177-a703-dd03fa56c8e4,epicure.diy,available,4.98,51.98,high,low,7,namecheap,,,17/08/2026 10:42
 fe6d9d61-0007-44d4-b750-0f9673ebf038,paneled.diy,available,4.98,51.98,high,low,7,namecheap,,,05/09/2026 00:50
@@ -900,6 +954,7 @@ c4077894-7024-4c90-bfb6-fac67dc595d4,blunted.diy,available,4.98,51.98,medium,low
 063b9959-17c4-46f8-903a-233dd0d7a298,positive.diy,available,5.49,39.99,high,low,8,namesilo,,,23/09/2026 14:53
 5da0d0d1-8427-4000-ab46-269c4ced4cbb,depended.diy,available,4.35,31.25,medium,low,8,spaceship,,,29/09/2026 17:13
 01292680-e242-4317-bef2-34b4c6df788c,madonna.diy,available,4.98,51.98,high,low,7,namecheap,,,24/09/2026 06:06
+3cdb4b5b-dad7-4117-bc1a-ac735fc597eb,chimneys.diy,available,30.2,30.2,medium,low,8,cloudflare,,,02/10/2026 13:29
 a8d5b5bf-f1e1-44ad-8a9f-02108b24794a,tend.diy,premium,181.33,258.95,high,low,4,spaceship,,,29/09/2026 23:54
 3624ebe5-d7a7-45ce-9753-64f5e97ba02e,cigarettes.diy,available,4.98,51.98,medium,low,10,namecheap,,,25/09/2026 21:29
 0c14d037-5941-4723-92bd-a4c35c83966f,waggon.diy,available,4.98,51.98,high,low,6,namecheap,,,22/09/2026 19:02
@@ -910,6 +965,7 @@ e29e5a16-79a0-41b0-beb1-261b22bd94ce,tomorrows.diy,available,5.49,39.99,medium,l
 17ab3468-195c-40f8-9776-196685a98c12,pictorials.diy,available,5.49,39.99,medium,low,10,namesilo,,,20/09/2026 12:53
 4d26420c-3f1e-4c95-99cc-1871b9a82668,sinai.diy,available,5.49,39.99,high,low,5,namesilo,,,25/09/2026 09:30
 fa3f78a2-b393-43e2-8f34-31827ecfce9d,toothbrush.diy,available,30.2,30.2,high,low,10,cloudflare,,,01/10/2026 03:46
+3e9726b4-e4b9-4012-852f-522f844d1728,surrendering.diy,available,4.35,31.25,high,low,12,spaceship,,,02/10/2026 07:29
 c5845318-80ea-4a18-a68a-1f6d657d12fa,clutter.diy,available,30.2,30.2,medium,low,7,cloudflare,,,01/10/2026 18:58
 f9c4b4eb-e346-4847-b98a-d4fb38820e82,achy.diy,premium,218.75,312.5,medium,low,4,name.com,,,
 db1ea3ca-c965-493c-8085-3a086e1881ae,foreigners.diy,available,5.49,39.99,low,low,10,namesilo,,,28/09/2026 23:22
@@ -927,10 +983,12 @@ eaf9b6e2-91e6-46c7-846f-75af17039034,transposed.diy,available,4.98,51.98,medium,
 8f64f5d5-4457-4169-b6d5-ae0a13fd23b6,compositions.diy,available,5.49,39.99,medium,low,12,namesilo,,,02/10/2026 01:26
 7254bf22-4265-443b-9692-d7cd5babe816,blackfish.diy,available,5.49,39.99,medium,low,9,namesilo,,,24/09/2026 01:55
 cbd4f068-c309-492c-a96b-c1a0d7138c9c,reno.diy,premium,362.45,517.7,high,low,4,spaceship,,,28/09/2026 06:40
+dcf17178-30ce-46b3-b33a-7eb0fb6922b6,petrovich.diy,available,4.99,32.32,medium,low,9,dynadot,,,02/10/2026 20:32
 7f31de61-9dad-40c2-9471-843e69e375af,factories.diy,available,39.99,59.99,medium,low,9,name.com,,,20/09/2026 05:09
 5e688e5c-0359-42f8-ac8f-5d115a797053,ventolin.diy,available,5.49,39.99,medium,low,8,namesilo,,,18/09/2026 03:33
 b5f76123-efd0-4794-88e5-d1f6ef109ff5,barmaid.diy,available,5.49,39.99,high,low,7,namesilo,,,22/09/2026 06:36
 f388ebac-3ccf-48be-8cb9-98713b570a30,broadside.diy,available,4.98,51.98,high,low,9,namecheap,,,11/08/2026 05:04
+16da5c13-3790-480c-8c88-8272b8ba52ea,hortense.diy,available,30.2,30.2,medium,low,8,cloudflare,,,02/10/2026 19:44
 41f3bf5f-606e-4150-85db-ff7192367a87,reinforcement.diy,available,4.98,51.98,medium,low,13,namecheap,,,29/09/2026 22:51
 e4645999-032d-40ff-affa-3af3d37abcf4,obliterate.diy,available,4.98,51.98,medium,low,10,namecheap,,,10/08/2026 15:34
 b44dd895-dc34-4db8-99ee-83b291a4da85,woe.diy,premium,1100,1100,high,low,3,dynadot,,,30/09/2026 19:07
@@ -941,61 +999,3 @@ ed1cb5dc-d0d3-4b30-b8c7-0f498fa8db90,exists.diy,available,4.98,51.98,medium,low,
 e64cb58a-78d3-4c1c-a89c-90d9e1415893,ad.diy,premium,6900,6900,high,medium,3,namesilo,,,02/10/2026 01:52
 a62ea697-58a6-473f-aeae-8950712e5888,prehensile.diy,available,4.98,51.98,medium,low,10,namecheap,,,07/08/2026 22:14
 d2ce3281-8072-4732-b903-da047c9e8ea7,sib.diy,premium,437.5,625,medium,low,3,name.com,,,12/08/2026 15:48
-c00a8d0f-a428-418f-ae12-747c93453731,spotty.diy,available,4.98,51.98,medium,low,6,namecheap,,,10/09/2026 16:37
-42473466-7a01-4891-8232-57958e2ddeb7,ammonia.diy,available,39.99,59.99,high,low,7,name.com,,,18/09/2026 22:08
-0c7f1a32-d2df-4185-8513-ce432ad30baa,chopra.diy,available,5.49,39.99,medium,low,6,namesilo,,,30/09/2026 16:13
-fd60dacc-d412-4925-89f5-d0a6aa047a9e,infusion.diy,premium,362.45,517.7,high,low,8,spaceship,,,01/10/2026 19:30
-972164ae-2973-4ba3-9ff7-55f7c7e8ff7a,kidney.diy,available,0.99,59.99,high,low,6,godaddy,,,30/09/2026 01:20
-9a7b6eed-40eb-4705-a35d-c8b543041074,chemicals.diy,available,4.63,31.41,medium,low,9,porkbun,,,28/09/2026 08:24
-551de645-5c9b-411a-96b5-b889f8eb3464,bruges.diy,premium,116,116,medium,low,6,namesilo,,,29/09/2026 06:10
-8f560d3e-697c-49db-ad3a-d41dd8f9450c,sloane.diy,available,30.2,30.2,high,low,6,cloudflare,,,28/09/2026 16:12
-054cc115-545a-4a62-ac1b-ddc01bfa3800,dla.diy,premium,,,high,low,3,,,,01/10/2026 11:00
-d07c9deb-6552-4db0-858e-0d9b00f5881d,oka.diy,premium,1107,1107,high,low,3,namesilo,,,01/10/2026 21:09
-84e18be4-ab73-466a-a44e-33e3d8f73554,quat.diy,premium,302.5,302.5,medium,low,4,namesilo,,,17/09/2026 15:25
-13987a24-2cdf-4bb7-9e18-59e80eda6739,jain.diy,premium,218.75,312.5,high,low,4,name.com,,,22/08/2026 12:04
-0cf0e0b5-a5af-4376-894a-3194b366b925,boutique.diy,premium,72.65,103.7,high,low,8,spaceship,,,29/09/2026 02:31
-e08fe434-02df-4fce-90e8-5774695c920c,junket.diy,available,5.49,39.99,high,low,6,namesilo,,,22/09/2026 03:02
-55bcdc94-cbe8-4f37-8d24-a7a0cac053ae,devalued.diy,available,4.98,51.98,medium,low,8,namecheap,,,14/08/2026 05:02
-80033877-39a9-491a-b4d3-c46b76f9fc59,scruples.diy,available,5.49,39.99,high,low,8,namesilo,,,24/09/2026 17:26
-8ef526cf-843a-465a-9e42-4915a996a4fb,animator.diy,available,5.49,39.99,high,low,8,namesilo,,,19/09/2026 09:13
-c0ef2668-3515-4d0a-942f-595f9e6d6776,doting.diy,available,4.98,51.98,high,low,6,namecheap,,,14/08/2026 16:28
-b7b2c848-8100-43f2-8375-c329fa938e0a,prokhorov.diy,available,5.49,39.99,high,low,9,namesilo,,,18/09/2026 05:06
-e65b90f6-87a8-4607-bad3-c50c8668436b,cleanly.diy,available,4.98,51.98,high,low,7,namecheap,,,12/08/2026 10:21
-bb3486d1-654b-4b96-8759-6d2be8967987,insulting.diy,available,5.49,39.99,medium,low,9,namesilo,,,23/09/2026 21:52
-c7c65655-398a-4703-afe8-d549c46655ba,seagoing.diy,available,4.98,51.98,medium,low,8,namecheap,,,04/09/2026 00:24
-b740416d-b165-44a0-b7cb-8a7b294d1e81,alienism.diy,available,4.98,51.98,medium,low,8,namecheap,,,18/09/2026 07:34
-0808b08d-b353-4d0d-b111-a6a5e58f241a,arthropod.diy,available,5.49,39.99,medium,low,9,namesilo,,,20/09/2026 10:41
-75b7eca3-d3d6-41cc-9490-b976ea9ad5a6,crashed.diy,available,4.35,31.25,low,low,7,spaceship,,,27/09/2026 11:29
-e3737e60-421c-420a-985d-38c2db15b18e,gas.diy,premium,1107,1107,high,low,3,namesilo,,,30/09/2026 01:57
-b3713183-8691-404b-a11c-5e9a952435c1,arui.diy,premium,302.5,302.5,medium,low,4,namesilo,,,18/09/2026 22:15
-ea3caeae-df14-4545-9b8c-7ce559c1353e,lenses.diy,available,5.49,39.99,medium,low,6,namesilo,,,29/09/2026 05:38
-f385848d-da87-4a76-beb2-66adc29917aa,racy.diy,premium,218.75,312.5,medium,low,4,name.com,,,18/08/2026 18:00
-e36bc912-1d78-4154-a9d2-9e0199bc1334,tunica.diy,available,5.49,39.99,medium,low,6,namesilo,,,17/09/2026 10:35
-d2c0a214-0de4-4c96-815e-127143d3d1fb,offers.diy,premium,640,640,high,low,6,namesilo,,,27/09/2026 23:51
-2adeda3a-a866-4905-9255-512cc0fbe2a9,lafayette.diy,premium,640,640,high,low,9,namesilo,,,30/09/2026 01:47
-b3ccf4a9-bcfb-41c9-84ac-900919f318bd,antedon.diy,available,5.49,39.99,medium,low,7,namesilo,,,19/09/2026 12:48
-bf47f37b-ad6c-4f14-bf2b-d5ecb181198d,absolutely.diy,available,4.99,32.32,high,low,10,dynadot,,,28/09/2026 11:36
-9b6dcf47-3c71-4849-8537-4cf9c4383a1b,muncie.diy,available,4.35,31.25,medium,low,6,spaceship,,,30/09/2026 02:21
-06de3dc9-5e84-46ad-bb93-a2f1e9987f66,elizabeth.diy,available,4.98,51.98,high,low,9,namecheap,,,25/09/2026 05:29
-485e2383-794b-4e9e-bfb3-e70e79d53b76,sauna.diy,premium,116,116,high,low,5,namesilo,,,30/09/2026 10:38
-077a5805-6772-4dc3-8181-ca8899e70e3e,epistemic.diy,available,4.98,51.98,medium,low,9,namecheap,,,17/08/2026 11:13
-0afd4b5a-a724-421e-85b9-4e5c8c782b2e,fledgling.diy,available,4.98,51.98,medium,low,9,namecheap,,,11/08/2026 14:45
-bf8e38f1-52b3-4b28-8d74-0abc34f62b86,muscovite.diy,available,4.98,51.98,medium,low,9,namecheap,,,03/09/2026 11:26
-0918be62-e8c6-4f71-934d-6ec077b25f83,guineas.diy,available,4.35,31.25,medium,low,7,spaceship,,,01/10/2026 17:45
-0e5d2df9-e213-4a4b-803c-737c4c58a989,aconcagua.diy,available,4.98,51.98,medium,low,9,namecheap,,,17/09/2026 02:04
-08e58ed8-7977-4938-8c05-72e67811d802,fluvial.diy,available,4.98,51.98,medium,low,7,namecheap,,,18/08/2026 09:35
-b08898c1-b489-4034-bf1b-6a817abe1c43,carts.diy,premium,116,116,medium,low,5,namesilo,,,30/09/2026 07:03
-792a2635-1f75-4c35-86cc-ec76346e2680,cliffs.diy,available,5.49,39.99,high,low,6,namesilo,,,29/09/2026 11:04
-7c76ec87-f449-4c7d-bd7c-0f248aa96b3d,retainer.diy,available,4.99,32.32,high,low,8,dynadot,,,30/09/2026 02:42
-0c6ca469-4027-442c-aa9a-4cd9dac0f116,spinning.diy,available,5.49,39.99,high,low,8,namesilo,,,27/09/2026 05:29
-e182a8e3-809f-4545-8454-816e5c13dcf4,declares.diy,available,0.99,59.99,medium,low,8,godaddy,,,01/10/2026 00:10
-abc4bcef-8de5-4404-9639-e9491c66fb1b,cernuous.diy,available,4.98,51.98,medium,low,8,namecheap,,,12/08/2026 00:44
-ae1ea322-54f8-4cc9-b277-54b47f0580b8,proverb.diy,available,5.49,39.99,high,low,7,namesilo,,,17/09/2026 06:07
-e17016ac-a331-48c4-a552-859c94dbe46a,mysteries.diy,available,4.99,32.32,high,low,9,dynadot,,,28/09/2026 17:32
-fdd60f0f-d49b-444e-8045-d4aec0f5c207,burbling.diy,available,4.98,51.98,medium,low,8,namecheap,,,11/08/2026 10:10
-d3f2a42e-50dc-466c-b5a1-ba00c1a88a46,focussed.diy,available,4.98,51.98,high,low,8,namecheap,,,18/08/2026 09:47
-9ade3e75-a8e9-4d59-9e96-e80aba67e4e2,windsor.diy,premium,640,640,high,low,7,namesilo,,,29/09/2026 23:04
-21dde193-c924-48bb-ba77-66c8093d3f91,mixing.diy,available,4.35,31.25,high,low,6,spaceship,,,29/09/2026 10:24
-cb55b45c-19d1-4fca-ba06-7c44c6099dca,camomile.diy,available,5.49,39.99,medium,low,8,namesilo,,,19/09/2026 13:02
-8904e375-957f-48d5-b216-930e99b9d906,guitarist.diy,available,30.2,30.2,high,low,9,cloudflare,,,01/10/2026 02:21
-0c35ee3f-4641-43cd-8fd2-ceab80d4e2d9,pause.diy,premium,72.65,103.7,high,low,5,spaceship,,,28/09/2026 06:34
